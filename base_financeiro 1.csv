@@ -1,0 +1,991 @@
+ID Transacao;Data;Descricao;Valor;Documento Vinculado;Status
+202507160771;2025-07-16;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-20.96;00001_minuta.pdf;Emitido
+202507160772;2025-07-16;"Pix enviado: ""Cp :54403563-M4 PRODUTOS E SERVICOS LTDA""";-15.00;00002_minuta.pdf;Emitido
+202507160773;2025-07-16;"Pix enviado: ""Cp :60746948-Marcelo Reis Pereira Silva""";-52.00;00003_minuta.pdf;Emitido
+202507160774;2025-07-16;"Pix recebido: ""Cp :90400888-JBS S A""";133.00;00004_minuta.pdf;Emitido
+202507160775;2025-07-16;"Pix enviado: ""Cp :10573521-LALAMOVE TECNOLOGIA BRASIL LTDA""";-20.00;00005_minuta.pdf;Emitido
+202507150771;2025-07-15;"Pix recebido: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";71.30;00006_minuta.pdf;Emitido
+202507150772;2025-07-15;"Pix enviado: ""Cp :03065046-Fabio Brigatti Transportes LTDA""";-81.40;00007_minuta.pdf;Emitido
+202507150773;2025-07-15;"Boleto de cobranca recebido: ""112/90357688798""";95.00;00008_minuta.pdf;Emitido
+202507150774;2025-07-15;"Pix enviado: ""Cp :16501555-SANTA ANA FESTAS E EVENTOS""";-37.00;00009_minuta.pdf;Emitido
+202507150775;2025-07-15;"Boleto de cobranca recebido: ""112/90364859200""";60.00;00010_minuta.pdf;Emitido
+202507150776;2025-07-15;"Boleto de cobranca recebido: ""112/90364831076""";120.00;00011_minuta.pdf;Emitido
+202507150777;2025-07-15;"Pix enviado: ""Cp :16501555-FRANGO LANGO COMERCIO DE FRANGOS LTDA""";-43.65;00012_minuta.pdf;Emitido
+202507150778;2025-07-15;"Pix recebido: ""Cp :00971300-GUFLA PECAS AGRICOLAS LTDA""";557.34;00013_minuta.pdf;Emitido
+202507150779;2025-07-15;"Pix recebido: ""Cp :54037916-BUFALO COMERCIO DE VIDROS LTDA""";255.00;00014_minuta.pdf;Emitido
+2025071507710;2025-07-15;"Pix enviado: ""Cp :60701190-SUPERMERCADO SERV LAR""";-30.58;00015_minuta.pdf;Emitido
+2025071507711;2025-07-15;"Boleto de cobranca recebido: ""112/90361036653""";401.25;00016_minuta.pdf;Emitido
+2025071507712;2025-07-15;"Pix enviado: ""Cp :90400888-Alvaro Ricardo Dias Calsaverini""";-1000.00;00017_minuta.pdf;Emitido
+2025071507713;2025-07-15;"Pix enviado: ""Cp :08561701-Davi P dos Santos Correa Lanches""";-33.00;00018_minuta.pdf;Emitido
+2025071507714;2025-07-15;"Pix enviado: ""Cp :60701190-IFOOD COM AGENCIA DE RESTAURANTES ONLINE S A""";-49.38;00019_minuta.pdf;Emitido
+2025071507715;2025-07-15;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-290.00;00020_minuta.pdf;Emitido
+2025071507716;2025-07-15;"Pix enviado devolvido: ""Cp :60701190-IFOOD COM AGENCIA DE RESTAURANTES ONLINE S A""";49.38;00021_minuta.pdf;Emitido
+202507140771;2025-07-14;"Pix recebido: ""Cp :18236120-Nicolas Rosa""";100.00;00022_minuta.pdf;Emitido
+202507140772;2025-07-14;"Pix enviado: ""Cp :16501555-SANTA ANA FESTAS E EVENTOS""";-32.90;00023_minuta.pdf;Emitido
+202507140773;2025-07-14;"Pix enviado: ""Cp :16501555-TERCEIRO TEMPO BAR E CONVENIENCIA""";-25.00;00024_minuta.pdf;Emitido
+202507120771;2025-07-12;"Pix enviado: ""Cp :19468242-ZOOP BRASIL""";-22.00;00025_minuta.pdf;Emitido
+202507110771;2025-07-11;"Pix recebido: ""Cp :00360305-ANTONIO BARBOSA DE SOUZA JUNIOR""";50.00;00026_minuta.pdf;Emitido
+202507110772;2025-07-11;"Pix enviado: ""Cp :16501555-SANTA ANA FESTAS E EVENTOS""";-38.50;00027_minuta.pdf;Emitido
+202507110773;2025-07-11;"Pix enviado: ""Cp :60701190-SUPERMERCADO SERV LAR""";-10.64;00028_minuta.pdf;Emitido
+202507110774;2025-07-11;"Pix recebido: ""Cp :31872495-CELSO APARECIDO MIRANDA""";60.00;00029_minuta.pdf;Emitido
+202507110775;2025-07-11;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-13.90;00030_minuta.pdf;Emitido
+202507110776;2025-07-11;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-15.35;00031_minuta.pdf;Emitido
+202507110777;2025-07-11;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-7.25;00032_minuta.pdf;Emitido
+202507100771;2025-07-10;"Boleto de cobranca recebido: ""112/90359558403""";120.00;00033_minuta.pdf;Emitido
+202507100772;2025-07-10;"Boleto de cobranca recebido: ""112/90359146555""";230.00;00034_minuta.pdf;Emitido
+202507100773;2025-07-10;"Pix recebido: ""Cp :60701190-VANDERCLAITON PEREIRA CORREA""";60.00;00035_minuta.pdf;Emitido
+202507100774;2025-07-10;"Pix enviado: ""Cp :90400888-Natalia Josy Alves de Oliveira""";-416.00;00036_minuta.pdf;Emitido
+202507090771;2025-07-09;"Pix recebido: ""Cp :18236120-Lara Rosa Avila Barros""";200.00;00037_minuta.pdf;Emitido
+202507090772;2025-07-09;"Pix recebido devolvido: ""Cp :18236120-null""";-150.00;00038_minuta.pdf;Emitido
+202507090773;2025-07-09;"Pix enviado: ""Cp :60701190-DIORANDE TRINDADE""";-37.00;00039_minuta.pdf;Emitido
+202507090774;2025-07-09;"Pix enviado: ""Cp :16501555-SANTA ANA FESTAS E EVENTOS""";-6.50;00040_minuta.pdf;Emitido
+202507080771;2025-07-08;"Pix recebido: ""Cp :18236120-Nicolas Rosa""";7.09;00041_minuta.pdf;Emitido
+202507080772;2025-07-08;"Pix enviado: ""Cp :08561701-Davi P dos Santos Correa Lanches""";-33.00;00042_minuta.pdf;Emitido
+202507080773;2025-07-08;"Pix enviado: ""Cp :08561701-Davi P dos Santos Correa Lanches""";-6.00;00043_minuta.pdf;Emitido
+202507070771;2025-07-07;"Pix recebido: ""Cp :60701190-GBM RALOS E GRELHAS PLUVIAIS LTDA""";110.00;00044_minuta.pdf;Emitido
+202507070772;2025-07-07;"Pix enviado: ""Cp :10573521-Luiza Silva de Oliveira""";-80.00;00045_minuta.pdf;Emitido
+202507060771;2025-07-06;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-13.16;00046_minuta.pdf;Emitido
+202507050771;2025-07-05;"Pix enviado: ""Cp :60701190-SUPERMERCADO SERV LAR""";-33.62;00047_minuta.pdf;Emitido
+202507040771;2025-07-04;"Boleto de cobranca recebido: ""112/90352759248""";130.00;00048_minuta.pdf;Emitido
+202507040772;2025-07-04;"Pix enviado: ""Cp :16501555-FRANGO LANGO COMERCIO DE FRANGOS LTDA""";-38.65;00049_minuta.pdf;Emitido
+202507040773;2025-07-04;"Pix enviado: ""Cp :16501555-SANTA ANA FESTAS E EVENTOS""";-25.44;00050_minuta.pdf;Emitido
+202507040774;2025-07-04;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-9.26;00051_minuta.pdf;Emitido
+202507040775;2025-07-04;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-13.29;00052_minuta.pdf;Emitido
+202507030771;2025-07-03;"Pix recebido: ""Cp :22896431-CAROLINA GESSI DOS SANTOS""";180.00;00053_minuta.pdf;Emitido
+202507030772;2025-07-03;"Pix enviado: ""Cp :16501555-FRANGO LANGO COMERCIO DE FRANGOS LTDA""";-28.75;00054_minuta.pdf;Emitido
+202507030773;2025-07-03;"Pagamento efetuado: ""SIMPLESLOG SISTEMAS LTDA""";-493.89;00055_minuta.pdf;Emitido
+202507030774;2025-07-03;"Boleto de cobranca recebido: ""112/90355104665""";120.00;00056_minuta.pdf;Emitido
+202507030775;2025-07-03;"Pix recebido: ""Cp :00971300-GUFLA PECAS AGRICOLAS LTDA""";1000.00;00057_minuta.pdf;Emitido
+202507030776;2025-07-03;"Pix recebido: ""Cp :00000000-RENATO AVILA BARROS""";1400.00;00058_minuta.pdf;Emitido
+202507030777;2025-07-03;"Pix enviado: ""00019 58109480 ZAMPIERI LIMA E FREITAS NETO SOCIED""";-3300.00;00059_minuta.pdf;Emitido
+202507030778;2025-07-03;"Pix recebido: ""Cp :90400888-DANIEL FREITAS CONSTANTINO""";700.00;00060_minuta.pdf;Emitido
+202507030779;2025-07-03;"Pix enviado: ""00019 58109480 ZAMPIERI LIMA E FREITAS NETO SOCIED""";-700.00;00061_minuta.pdf;Emitido
+202507020771;2025-07-02;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-13.08;00062_minuta.pdf;Emitido
+202507020772;2025-07-02;"Pix recebido: ""Cp :18189547-Ciahflex""";60.00;00063_minuta.pdf;Emitido
+202507020773;2025-07-02;"Pix recebido: ""Cp :60701190-A ORIGINAL RIO PRETO FUNILARIA E PINTURA LTDA.""";60.00;00064_minuta.pdf;Emitido
+202507020774;2025-07-02;"Pix enviado: ""Cp :10573521-Tatiane Lisboa Ribeiro""";-33.00;00065_minuta.pdf;Emitido
+202507020775;2025-07-02;"Pix enviado: ""Cp :18236120-Jose Anchieta Fernandes Selvino Pereira""";-10.00;00066_minuta.pdf;Emitido
+202507020776;2025-07-02;"Boleto de cobranca recebido: ""112/90346681540""";791.20;00067_minuta.pdf;Emitido
+202507020777;2025-07-02;"Pix recebido: ""Cp :90400888-MTS PECAS E SERVICOS LTDA""";330.00;00068_minuta.pdf;Emitido
+202507020778;2025-07-02;"Pix enviado: ""Cp :14796606-RD SAUDE""";-54.10;00069_minuta.pdf;Emitido
+202507020779;2025-07-02;"Pix enviado: ""Cp :18236120-Luiz Donizete Morais""";-35.00;00070_minuta.pdf;Emitido
+202507010771;2025-07-01;"Pix enviado: ""Cp :90400888-Natalia Josy Alves de Oliveira""";-495.00;00071_minuta.pdf;Emitido
+202507010772;2025-07-01;"Pix recebido: ""Cp :10262276-EMAC COMERCIO DE PECAS AGRICOLAS E INDUSTRIAIS LTD""";45.00;00072_minuta.pdf;Emitido
+202507010773;2025-07-01;"Pix enviado: ""Cp :90400888-J P COMERCIO DE ACAI LTDA""";-34.00;00073_minuta.pdf;Emitido
+202507010774;2025-07-01;"Pix enviado: ""Cp :18236120-Marcos Jose Frezarin Plazza""";-163.00;00074_minuta.pdf;Emitido
+202507010775;2025-07-01;"Pix enviado: ""Cp :00000000-Renato Avila Barros""";-500.00;00075_minuta.pdf;Emitido
+202507010776;2025-07-01;"Pix enviado: ""Cp :08561701-Davi P dos Santos Correa Lanches""";-89.00;00076_minuta.pdf;Emitido
+202506300771;2025-06-30;"Pix recebido: ""Cp :18189547-ALEX VASCONCELOS CREPALDI SILVA 36575597874""";650.00;00077_minuta.pdf;Emitido
+202506300772;2025-06-30;"Boleto de cobranca recebido: ""112/90345912953""";143.88;00078_minuta.pdf;Emitido
+202506300773;2025-06-30;"Pix enviado: ""Cp :60701190-SUPERMERCADO SERV LAR""";-7.99;00079_minuta.pdf;Emitido
+202506300774;2025-06-30;"Pix enviado: ""Cp :90400888-FARMACIA MODELO""";-1.00;00080_minuta.pdf;Emitido
+202506300775;2025-06-30;"Pix enviado: ""Cp :60701190-Renato Cava Single""";-100.00;00081_minuta.pdf;Emitido
+202506300776;2025-06-30;"Boleto de cobranca recebido: ""112/90346860656""";256.90;00082_minuta.pdf;Emitido
+202506300777;2025-06-30;"Pix enviado: ""Cp :16501555-DROGARIA ABRAO THOME LTDA""";-7.00;00083_minuta.pdf;Emitido
+202506300778;2025-06-30;"Boleto de cobranca recebido: ""112/90346086070""";371.00;00084_minuta.pdf;Emitido
+202506300779;2025-06-30;"Pix enviado: ""Cp :18236120-Marcos Jose Frezarin Plazza""";-38.00;00085_minuta.pdf;Emitido
+202506290771;2025-06-29;"Pix recebido: ""Cp :00000000-RENATO AVILA BARROS""";30.00;00086_minuta.pdf;Emitido
+202506290772;2025-06-29;"Pix enviado: ""Cp :18236120-Nicolas Rosa Avila Barros""";-32.00;00087_minuta.pdf;Emitido
+202506280771;2025-06-28;"Pix enviado: ""Cp :16501555-Vilmar Lanches Ltda""";-65.50;00088_minuta.pdf;Emitido
+202506280772;2025-06-28;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-13.51;00089_minuta.pdf;Emitido
+202506280773;2025-06-28;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-11.48;00090_minuta.pdf;Emitido
+202506280774;2025-06-28;"Pix recebido: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";3.17;00091_minuta.pdf;Emitido
+202506280775;2025-06-28;"Pix enviado: ""Cp :16501555-DROGARIA ABRAO THOME LTDA""";-3.50;00092_minuta.pdf;Emitido
+202506270771;2025-06-27;"Pix enviado: ""Cp :90400888-LOJA G""";-9.48;00093_minuta.pdf;Emitido
+202506270772;2025-06-27;"Transferencia recebida: ""001 3322 1024078 HIDRAU TORQUE INDUSTRIA COMERCIO""";48.00;00094_minuta.pdf;Emitido
+202506270773;2025-06-27;"Transferencia recebida: ""001 3322 1024078 HIDRAU TORQUE INDUSTRIA COMERCIO""";85.00;00095_minuta.pdf;Emitido
+202506270774;2025-06-27;"Transferencia recebida: ""001 3322 1024078 HIDRAU TORQUE INDUSTRIA COMERCIO""";70.00;00096_minuta.pdf;Emitido
+202506270775;2025-06-27;"Pix enviado: ""Cp :90400888-VILLA CALCADAO""";-12.00;00097_minuta.pdf;Emitido
+202506270776;2025-06-27;"Pix enviado: ""Cp :00000000-JUQUINHA SORVETES LTDA""";-17.00;00098_minuta.pdf;Emitido
+202506270777;2025-06-27;"Pix enviado: ""Cp :08561701-LANCHONETE TURBO DOG""";-89.00;00099_minuta.pdf;Emitido
+202506260771;2025-06-26;"Pix enviado: ""Cp :60701190-COMPANHIA BRASILEIRA DE DISTRIBUICAO""";-8.69;00100_minuta.pdf;Emitido
+202506260772;2025-06-26;"Boleto de cobranca recebido: ""112/90343505510""";215.52;00101_minuta.pdf;Emitido
+202506260773;2025-06-26;"Pix enviado: ""Cp :90400888-FRUTARIA JK LTDA""";-10.00;00102_minuta.pdf;Emitido
+202506260774;2025-06-26;"Pix enviado: ""Cp :77984870-IKKI DELICIAS""";-19.90;00103_minuta.pdf;Emitido
+202506260775;2025-06-26;"Pix enviado: ""Cp :58160789-COPY FACIL COPIADORA LTDA""";-5.00;00104_minuta.pdf;Emitido
+202506260776;2025-06-26;"Pix enviado: ""Cp :00000000-JUQUINHA SORVETES LTDA""";-17.00;00105_minuta.pdf;Emitido
+202506260777;2025-06-26;"Pix enviado: ""Cp :00360305-LUIZ FERNANDES JUNIOR""";-60.00;00106_minuta.pdf;Emitido
+202506260778;2025-06-26;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00107_minuta.pdf;Emitido
+202506260779;2025-06-26;"Pix enviado: ""Cp :90400888-WENXUAN WU PRESENTES LTDA""";-85.00;00108_minuta.pdf;Emitido
+202506250771;2025-06-25;"Pix recebido: ""Cp :18236120-Nicolas Rosa""";22.80;00109_minuta.pdf;Emitido
+202506250772;2025-06-25;"Pix enviado: ""Cp :90400888-BOM DEMAIS RIO PRETO RESTAURANTE EIRELI""";-50.00;00110_minuta.pdf;Emitido
+202506240771;2025-06-24;"Pix enviado: ""Cp :90400888-Natalia Josy Alves de Oliveira""";-480.00;00111_minuta.pdf;Emitido
+202506240772;2025-06-24;"Pix recebido: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";165.61;00112_minuta.pdf;Emitido
+202506240773;2025-06-24;"Pix enviado: ""Cp :90400888-CPFL""";-259.44;00113_minuta.pdf;Emitido
+202506230771;2025-06-23;"Pix recebido: ""Cp :90400888-FX ELETRODOS INDUSTRIA E COMERCIO DE SOLDAS LTDA""";610.00;00114_minuta.pdf;Emitido
+202506210771;2025-06-21;"Pix enviado: ""Cp :60701190-EDIBERTO ALVES NUNES S J DO RIO PRETO""";-5.00;00115_minuta.pdf;Emitido
+202506190771;2025-06-19;"Pix enviado: ""Cp :08561701-Paulo Cesar da Silva Custodio""";-400.00;00116_minuta.pdf;Emitido
+202506190772;2025-06-19;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00117_minuta.pdf;Emitido
+202506190773;2025-06-19;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00118_minuta.pdf;Emitido
+202506190774;2025-06-19;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-15.80;00119_minuta.pdf;Emitido
+202506190775;2025-06-19;"Pix enviado: ""Cp :90400888-FARMACIA MODELO""";-5.00;00120_minuta.pdf;Emitido
+202506190776;2025-06-19;"Pix enviado: ""Cp :16501555-SANTA ANA FESTAS E EVENTOS""";-32.90;00121_minuta.pdf;Emitido
+202506190777;2025-06-19;"Pix enviado: ""Cp :54403563-M4 PRODUTOS E SERVICOS LTDA""";-30.00;00122_minuta.pdf;Emitido
+202506190778;2025-06-19;"Pix recebido: ""Cp :60701190-TIM S A""";3.00;00123_minuta.pdf;Emitido
+202506190779;2025-06-19;"Pix enviado: ""Cp :90400888-CPFL""";-251.87;00124_minuta.pdf;Emitido
+2025061907710;2025-06-19;"Pix enviado: ""Cp :90400888-CPFL""";-225.54;00125_minuta.pdf;Emitido
+2025061907711;2025-06-19;"Pix enviado: ""Cp :90400888-CPFL""";-260.99;00126_minuta.pdf;Emitido
+2025061907712;2025-06-19;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-13.85;00127_minuta.pdf;Emitido
+2025061907713;2025-06-19;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-18.77;00128_minuta.pdf;Emitido
+2025061907714;2025-06-19;"Pix enviado: ""Cp :60701190-CARREFOUR COMERCIO E INDUSTRIA LTDA""";-34.10;00129_minuta.pdf;Emitido
+2025061907715;2025-06-19;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-16.27;00130_minuta.pdf;Emitido
+202506180771;2025-06-18;"Pix enviado: ""Cp :08561701-40 682 412 NILCE NEVES MATTARAGGIA""";-40.40;00131_minuta.pdf;Emitido
+202506180772;2025-06-18;"Pix enviado: ""Cp :08561701-TUBARAO EXPRESS UTILIDADES EM GERAL LTDA""";-27.25;00132_minuta.pdf;Emitido
+202506180773;2025-06-18;"Boleto de cobranca recebido: ""112/90339204508""";130.00;00133_minuta.pdf;Emitido
+202506180774;2025-06-18;"Transferencia recebida: ""341 4009 814486 NARDINI AGROINDUSTRIAL LTDA""";94.44;00134_minuta.pdf;Emitido
+202506180775;2025-06-18;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-14.23;00135_minuta.pdf;Emitido
+202506180776;2025-06-18;"Pix enviado: ""00019 403444195 KIBERAMA RESTAURANTE ARABE LTDA""";-87.11;00136_minuta.pdf;Emitido
+202506180777;2025-06-18;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00137_minuta.pdf;Emitido
+202506180778;2025-06-18;"Boleto de cobranca recebido: ""112/90339246582""";65.00;00138_minuta.pdf;Emitido
+202506180779;2025-06-18;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-12.52;00139_minuta.pdf;Emitido
+2025061807710;2025-06-18;"Pix recebido: ""Cp :90400888-STL INDUSTRIA E COMERCIO DE ACESSORIOS PARA PISCINAS LTDA""";175.00;00140_minuta.pdf;Emitido
+2025061807711;2025-06-18;"Pix recebido: ""Cp :90400888-STL INDUSTRIA E COMERCIO DE ACESSORIOS PARA PISCINAS LTDA""";245.00;00141_minuta.pdf;Emitido
+2025061807712;2025-06-18;"Pix recebido: ""Cp :90400888-STATUS POOL INDUSTRIA E COMERCIO DE ACESSORIOS PARA LAZER LTDA""";110.00;00142_minuta.pdf;Emitido
+2025061807713;2025-06-18;"Boleto de cobranca recebido: ""112/90338184388""";542.50;00143_minuta.pdf;Emitido
+2025061807714;2025-06-18;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-17.66;00144_minuta.pdf;Emitido
+2025061807715;2025-06-18;"Pix enviado: ""00019 326356258 52929146 A E G SANTOS""";-80.90;00145_minuta.pdf;Emitido
+2025061807716;2025-06-18;"Pix recebido: ""Cp :60701190-MARCO ANTONIO MAXIMO - EQUIPAMENTOS PARA PISCINA""";135.00;00146_minuta.pdf;Emitido
+202506170771;2025-06-17;"Pix recebido: ""Cp :00360305-TRANSPORTADORA TMS LTDA ME""";307.48;00147_minuta.pdf;Emitido
+202506170772;2025-06-17;"Pix recebido: ""Cp :64739121-MARCOS ANTONIO DE OLIVEIRA FLAUSINO""";90.00;00148_minuta.pdf;Emitido
+202506170773;2025-06-17;"Pix recebido: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";60.00;00149_minuta.pdf;Emitido
+202506170774;2025-06-17;"Pix recebido: ""Cp :60701190-VITOR PAULUCCI""";147.00;00150_minuta.pdf;Emitido
+202506170775;2025-06-17;"Pix recebido: ""Cp :09512539-PORTOEXPRESS LOGISTICA LTDA""";640.45;00151_minuta.pdf;Emitido
+202506170776;2025-06-17;"Pix recebido: ""Cp :09512539-PORTOEXPRESS LOGISTICA LTDA""";4590.05;00152_minuta.pdf;Emitido
+202506170777;2025-06-17;"Pix recebido: ""Cp :00000000-RIBERCON DIST LTDA EPP""";540.00;00153_minuta.pdf;Emitido
+202506170778;2025-06-17;"Pix recebido: ""Cp :00000000-RIBERCON DIST LTDA EPP""";1415.24;00154_minuta.pdf;Emitido
+202506170779;2025-06-17;"Pix recebido: ""Cp :00000000-RIBERCON DIST LTDA EPP""";250.00;00155_minuta.pdf;Emitido
+2025061707710;2025-06-17;"Pix recebido: ""Cp :00000000-RIBERCON DIST LTDA EPP""";796.58;00156_minuta.pdf;Emitido
+2025061707711;2025-06-17;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-50.00;00157_minuta.pdf;Emitido
+2025061707712;2025-06-17;"Pix enviado: ""Cp :18236120-AVILA TRANSPORTES""";-8800.00;00158_minuta.pdf;Emitido
+2025061707713;2025-06-17;"Pix recebido: ""Cp :90400888-DOUGLAS ALEXANDRE FERREIRA DE MELLO""";70.00;00159_minuta.pdf;Emitido
+2025061707714;2025-06-17;"Pix recebido: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";92.00;00160_minuta.pdf;Emitido
+2025061707715;2025-06-17;"Pix enviado: ""00019 403444195 KIBERAMA RESTAURANTE ARABE LTDA""";-36.30;00161_minuta.pdf;Emitido
+2025061707716;2025-06-17;"Pix recebido: ""00019 245027521 CLEOMAR MARCOS BLAUTH""";188.26;00162_minuta.pdf;Emitido
+2025061707717;2025-06-17;"Pix enviado: ""Cp :90400888-FARMACIA DO POVO""";-119.53;00163_minuta.pdf;Emitido
+2025061707718;2025-06-17;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-7.76;00164_minuta.pdf;Emitido
+2025061707719;2025-06-17;"Pix enviado: ""Cp :90400888-FARMACIA DO POVO""";-4.99;00165_minuta.pdf;Emitido
+2025061707720;2025-06-17;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-12.58;00166_minuta.pdf;Emitido
+2025061707721;2025-06-17;"Pix enviado: ""Cp :01027058-WILLIAM LOPES DA SILVARESTAURANTE""";-42.00;00167_minuta.pdf;Emitido
+2025061707722;2025-06-17;"Pix enviado: ""Cp :90400888-VILLAGE PLAZZA SERV FESTAS LTDA""";-20.00;00168_minuta.pdf;Emitido
+2025061707723;2025-06-17;"Pix enviado: ""Cp :21018182-UBER DO BRASIL TECNOLOGIA LTDA""";-12.48;00169_minuta.pdf;Emitido
+202506160771;2025-06-16;"Pix recebido: ""Cp :90400888-B F DOS SANTOS""";168.30;00170_minuta.pdf;Emitido
+202506160772;2025-06-16;"Pix enviado: ""Cp :08561701-40 682 412 NILCE NEVES MATTARAGGIA""";-30.90;00171_minuta.pdf;Emitido
+202506160773;2025-06-16;"Pix enviado: ""Cp :60701190-DROGARIA TOTAL POPULAR""";-42.50;00172_minuta.pdf;Emitido
+202506160774;2025-06-16;"Pix recebido: ""Cp :90400888-THERMOVATTE LTDA""";60.00;00173_minuta.pdf;Emitido
+202506160775;2025-06-16;"Pix recebido: ""Cp :79052122-Hipot Energia Ltda""";970.69;00174_minuta.pdf;Emitido
+202506160776;2025-06-16;"Pix enviado: ""Cp :10573521-Tatiane Lisboa Ribeiro""";-30.00;00175_minuta.pdf;Emitido
+202506160777;2025-06-16;"Pix recebido: ""Cp :60701190-ALLMA NORTE COMERCIO DE VEICULOS LTDA""";160.00;00176_minuta.pdf;Emitido
+202506160778;2025-06-16;"Pix enviado: ""Cp :18236120-Jose Eduardo Martin Rosa""";-700.00;00177_minuta.pdf;Emitido
+202506160779;2025-06-16;"Pix enviado: ""Cp :90400888-Natalia Josy Alves de Oliveira""";-480.00;00178_minuta.pdf;Emitido
+2025061607710;2025-06-16;"Pix enviado: ""Cp :90400888-Natalia Josy Alves de Oliveira""";-15.00;00179_minuta.pdf;Emitido
+2025061607711;2025-06-16;"Pix enviado: ""Cp :01027058-WILLIAM LOPES DA SILVARESTAURANTE""";-43.90;00180_minuta.pdf;Emitido
+202506150771;2025-06-15;"Pix enviado: ""Cp :10573521-Ezequiel Lugatto Siqueira""";-900.00;00181_minuta.pdf;Emitido
+202506150772;2025-06-15;"Pix enviado: ""Cp :18236120-Alceu Rodrigues Neto""";-1000.00;00182_minuta.pdf;Emitido
+202506150773;2025-06-15;"Pix enviado: ""Cp :21018182-Uber""";-11.69;00183_minuta.pdf;Emitido
+202506150774;2025-06-15;"Pix enviado: ""Cp :21018182-Uber""";-11.71;00184_minuta.pdf;Emitido
+202506150775;2025-06-15;"Pix enviado devolvido: ""Cp :21018182-Uber""";6.44;00185_minuta.pdf;Emitido
+202506150776;2025-06-15;"Pix enviado: ""Cp :60701190-LANCHES E CAFE CONTE LTDA""";-15.00;00186_minuta.pdf;Emitido
+202506150777;2025-06-15;"Pix enviado: ""Cp :21018182-Uber""";-9.94;00187_minuta.pdf;Emitido
+202506150778;2025-06-15;"Pix enviado: ""Cp :18236120-Nicolas Rosa Avila Barros""";-33.00;00188_minuta.pdf;Emitido
+202506140771;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00189_minuta.pdf;Emitido
+202506140772;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00190_minuta.pdf;Emitido
+202506140773;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00191_minuta.pdf;Emitido
+202506140774;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00192_minuta.pdf;Emitido
+202506140775;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00193_minuta.pdf;Emitido
+202506140776;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00194_minuta.pdf;Emitido
+202506140777;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00195_minuta.pdf;Emitido
+202506140778;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00196_minuta.pdf;Emitido
+202506140779;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00197_minuta.pdf;Emitido
+2025061407710;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00198_minuta.pdf;Emitido
+2025061407711;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00199_minuta.pdf;Emitido
+2025061407712;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00200_minuta.pdf;Emitido
+2025061407713;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00201_minuta.pdf;Emitido
+2025061407714;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00202_minuta.pdf;Emitido
+2025061407715;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00203_minuta.pdf;Emitido
+2025061407716;2025-06-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00204_minuta.pdf;Emitido
+2025061407717;2025-06-14;"Pix enviado: ""Cp :90400888-Nayra Kelly Molina Rodero Saraiva""";-1230.00;00205_minuta.pdf;Emitido
+2025061407718;2025-06-14;"Pix enviado: ""00019 403444195 KIBERAMA RESTAURANTE ARABE LTDA""";-51.70;00206_minuta.pdf;Emitido
+2025061407719;2025-06-14;"Pix enviado: ""Cp :16501555-Maria Maria Beauty""";-50.00;00207_minuta.pdf;Emitido
+2025061407720;2025-06-14;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-52.26;00208_minuta.pdf;Emitido
+202506130771;2025-06-13;"Boleto de cobranca recebido: ""112/90321807821""";170.00;00209_minuta.pdf;Emitido
+202506130772;2025-06-13;"Boleto de cobranca recebido: ""112/90321807763""";126.00;00210_minuta.pdf;Emitido
+202506130773;2025-06-13;"Boleto de cobranca recebido: ""112/90321807656""";142.31;00211_minuta.pdf;Emitido
+202506130774;2025-06-13;"Boleto de cobranca recebido: ""112/90321807714""";60.00;00212_minuta.pdf;Emitido
+202506130775;2025-06-13;"Boleto de cobranca recebido: ""112/90321807789""";238.56;00213_minuta.pdf;Emitido
+202506130776;2025-06-13;"Boleto de cobranca recebido: ""112/90321807698""";185.86;00214_minuta.pdf;Emitido
+202506130777;2025-06-13;"Boleto de cobranca recebido: ""112/90321807797""";45.00;00215_minuta.pdf;Emitido
+202506130778;2025-06-13;"Boleto de cobranca recebido: ""112/90321807482""";130.00;00216_minuta.pdf;Emitido
+202506130779;2025-06-13;"Boleto de cobranca recebido: ""112/90321807706""";189.84;00217_minuta.pdf;Emitido
+2025061307710;2025-06-13;"Boleto de cobranca recebido: ""112/90323105505""";153.00;00218_minuta.pdf;Emitido
+2025061307711;2025-06-13;"Boleto de cobranca recebido: ""112/90321807839""";60.00;00219_minuta.pdf;Emitido
+2025061307712;2025-06-13;"Boleto de cobranca recebido: ""112/90321807458""";600.00;00220_minuta.pdf;Emitido
+2025061307713;2025-06-13;"Boleto de cobranca recebido: ""112/90321807961""";495.00;00221_minuta.pdf;Emitido
+2025061307714;2025-06-13;"Boleto de cobranca recebido: ""112/90321807599""";96.00;00222_minuta.pdf;Emitido
+2025061307715;2025-06-13;"Boleto de cobranca recebido: ""112/90321807888""";610.00;00223_minuta.pdf;Emitido
+2025061307716;2025-06-13;"Boleto de cobranca recebido: ""112/90321807516""";120.00;00224_minuta.pdf;Emitido
+2025061307717;2025-06-13;"Boleto de cobranca recebido: ""112/90326011700""";124.00;00225_minuta.pdf;Emitido
+2025061307718;2025-06-13;"Boleto de cobranca recebido: ""112/90326011676""";230.00;00226_minuta.pdf;Emitido
+2025061307719;2025-06-13;"Boleto de cobranca recebido: ""112/90326011684""";1742.62;00227_minuta.pdf;Emitido
+2025061307720;2025-06-13;"Pix enviado: ""Cp :90400888-FRUTARIA JK LTDA ME""";-48.00;00228_minuta.pdf;Emitido
+2025061307721;2025-06-13;"Boleto de cobranca recebido: ""112/90321807631""";189.71;00229_minuta.pdf;Emitido
+2025061307722;2025-06-13;"Boleto de cobranca recebido: ""112/90321807524""";134.27;00230_minuta.pdf;Emitido
+2025061307723;2025-06-13;"Boleto de cobranca recebido: ""112/90321807623""";220.00;00231_minuta.pdf;Emitido
+2025061307724;2025-06-13;"Boleto de cobranca recebido: ""112/90321807615""";120.00;00232_minuta.pdf;Emitido
+2025061307725;2025-06-13;"Boleto de cobranca recebido: ""112/90321807730""";240.00;00233_minuta.pdf;Emitido
+2025061307726;2025-06-13;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-19.16;00234_minuta.pdf;Emitido
+2025061307727;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00235_minuta.pdf;Emitido
+2025061307728;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00236_minuta.pdf;Emitido
+2025061307729;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00237_minuta.pdf;Emitido
+2025061307730;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00238_minuta.pdf;Emitido
+2025061307731;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00239_minuta.pdf;Emitido
+2025061307732;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00240_minuta.pdf;Emitido
+2025061307733;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00241_minuta.pdf;Emitido
+2025061307734;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00242_minuta.pdf;Emitido
+2025061307735;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00243_minuta.pdf;Emitido
+2025061307736;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00244_minuta.pdf;Emitido
+2025061307737;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00245_minuta.pdf;Emitido
+2025061307738;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00246_minuta.pdf;Emitido
+2025061307739;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00247_minuta.pdf;Emitido
+2025061307740;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00248_minuta.pdf;Emitido
+2025061307741;2025-06-13;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00249_minuta.pdf;Emitido
+2025061307742;2025-06-13;"Pix enviado: ""Cp :00000000-JUQUINHA SORVETES LTDA""";-17.00;00250_minuta.pdf;Emitido
+2025061307743;2025-06-13;"Boleto de cobranca recebido: ""112/90321807847""";60.00;00251_minuta.pdf;Emitido
+2025061307744;2025-06-13;"Boleto de cobranca recebido: ""112/90321807532""";90.00;00252_minuta.pdf;Emitido
+2025061307745;2025-06-13;"Boleto de cobranca recebido: ""112/90321807904""";360.00;00253_minuta.pdf;Emitido
+2025061307746;2025-06-13;"Boleto de cobranca recebido: ""112/90321807920""";290.00;00254_minuta.pdf;Emitido
+2025061307747;2025-06-13;"Boleto de cobranca recebido: ""112/90321807946""";95.00;00255_minuta.pdf;Emitido
+2025061307748;2025-06-13;"Boleto de cobranca recebido: ""112/90321807649""";60.00;00256_minuta.pdf;Emitido
+2025061307749;2025-06-13;"Boleto de cobranca recebido: ""112/90326011692""";160.00;00257_minuta.pdf;Emitido
+2025061307750;2025-06-13;"Pix enviado: ""Cp :00000000-Breno Luis Dinis Magri""";-5085.00;00258_minuta.pdf;Emitido
+2025061307751;2025-06-13;"Boleto de cobranca recebido: ""112/90321807912""";240.00;00259_minuta.pdf;Emitido
+2025061307752;2025-06-13;"Boleto de cobranca recebido: ""112/90321807359""";60.00;00260_minuta.pdf;Emitido
+2025061307753;2025-06-13;"Boleto de cobranca recebido: ""112/90321807391""";60.00;00261_minuta.pdf;Emitido
+2025061307754;2025-06-13;"Boleto de cobranca recebido: ""112/90321807771""";60.00;00262_minuta.pdf;Emitido
+2025061307755;2025-06-13;"Boleto de cobranca recebido: ""112/90321807722""";60.00;00263_minuta.pdf;Emitido
+2025061307756;2025-06-13;"Boleto de cobranca recebido: ""112/90326011668""";230.00;00264_minuta.pdf;Emitido
+2025061307757;2025-06-13;"Boleto de cobranca recebido: ""112/90321807680""";120.00;00265_minuta.pdf;Emitido
+2025061307758;2025-06-13;"Boleto de cobranca recebido: ""112/90321807441""";60.00;00266_minuta.pdf;Emitido
+2025061307759;2025-06-13;"Boleto de cobranca recebido: ""112/90323105489""";130.00;00267_minuta.pdf;Emitido
+202506120771;2025-06-12;"Pix enviado: ""Cp :18236120-Taira Paloma da Costa Malavasi""";-12.00;00268_minuta.pdf;Emitido
+202506120772;2025-06-12;"Pix enviado: ""Cp :08561701-BAR OFICIAL CHOP E ESPETO LTDA""";-97.90;00269_minuta.pdf;Emitido
+202506120773;2025-06-12;"Pix enviado: ""Cp :16501555-RAFAEL FRANCISCO DE FARIAS""";-23.00;00270_minuta.pdf;Emitido
+202506120774;2025-06-12;"Boleto de cobranca recebido: ""112/90321807342""";210.01;00271_minuta.pdf;Emitido
+202506120775;2025-06-12;"Boleto de cobranca recebido: ""112/90322080634""";143.24;00272_minuta.pdf;Emitido
+202506120776;2025-06-12;"Pix enviado: ""Cp :21018182-Uber""";-13.28;00273_minuta.pdf;Emitido
+202506120777;2025-06-12;"Pix enviado: ""Cp :18236120-Felipe Pereira Da Silva""";-20.00;00274_minuta.pdf;Emitido
+202506120778;2025-06-12;"Pix enviado: ""Cp :08561701-RESENHA STAKE BAR LTDA""";-334.37;00275_minuta.pdf;Emitido
+202506120779;2025-06-12;"Pix enviado: ""Cp :21018182-Uber""";-12.96;00276_minuta.pdf;Emitido
+202506110771;2025-06-11;"Pix enviado: ""Cp :09089356-NIC BR""";-40.00;00277_minuta.pdf;Emitido
+202506110772;2025-06-11;"Pagamento efetuado: ""PORTOEX SP LOGISTICA LTDA""";-114.52;00278_minuta.pdf;Emitido
+202506110773;2025-06-11;"Pagamento efetuado: ""CFG EXPRESS TRANSPORTES LTDA - ME""";-410.10;00279_minuta.pdf;Emitido
+202506110774;2025-06-11;"Pagamento efetuado: ""PORTOEX SP LOGISTICA LTDA""";-652.95;00280_minuta.pdf;Emitido
+202506110775;2025-06-11;"Pix enviado: ""Cp :10573521-Tatiane Lisboa Ribeiro""";-13.00;00281_minuta.pdf;Emitido
+202506110776;2025-06-11;"Pix enviado: ""Cp :08561701-Sol Cargas Transportes Multimodal LTDA""";-73.75;00282_minuta.pdf;Emitido
+202506110777;2025-06-11;"Pix enviado: ""Cp :08561701-Sol Cargas Transportes Multimodal LTDA""";-61.13;00283_minuta.pdf;Emitido
+202506110778;2025-06-11;"Pix enviado: ""Cp :08561701-Sol Cargas Transportes Multimodal LTDA""";-78.02;00284_minuta.pdf;Emitido
+202506110779;2025-06-11;"Pix enviado: ""Cp :08561701-Sol Cargas Transportes Multimodal LTDA""";-42.46;00285_minuta.pdf;Emitido
+2025061107710;2025-06-11;"Boleto de cobranca recebido: ""112/90321807755""";60.00;00286_minuta.pdf;Emitido
+202506100771;2025-06-10;"Pix enviado: ""Cp :54403563-Tuna Pagamentos""";-36.00;00287_minuta.pdf;Emitido
+202506100772;2025-06-10;"Pix enviado: ""Cp :08561701-Karen Dayane Souza Vieira""";-51.00;00288_minuta.pdf;Emitido
+202506100773;2025-06-10;"Pix recebido: ""Cp :90400888-NARDINI AGROINDUSTRIAL LTDA""";1324.32;00289_minuta.pdf;Emitido
+202506100774;2025-06-10;"Boleto de cobranca recebido: ""112/90326011718""";60.00;00290_minuta.pdf;Emitido
+202506100775;2025-06-10;"Pix enviado: ""Cp :09089356-NIC BR""";-40.00;00291_minuta.pdf;Emitido
+202506100776;2025-06-10;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-240.00;00292_minuta.pdf;Emitido
+202506100777;2025-06-10;"Pix enviado: ""Cp :00000000-Hayasaki Certificadora Digital LTDA""";-190.00;00293_minuta.pdf;Emitido
+202506090771;2025-06-09;"Pix recebido: ""Cp :60701190-MEU VELHO PAI TRANSPORTES LTDA""";162.50;00294_minuta.pdf;Emitido
+202506090772;2025-06-09;"Boleto de cobranca recebido: ""112/90321807409""";613.31;00295_minuta.pdf;Emitido
+202506090773;2025-06-09;"Boleto de cobranca recebido: ""112/90304141214""";66.40;00296_minuta.pdf;Emitido
+202506090774;2025-06-09;"Pix enviado: ""Cp :09089356-NIC BR""";-40.00;00297_minuta.pdf;Emitido
+202506080771;2025-06-08;"Pix enviado: ""Cp :90400888-Natalia Josy Alves de Oliveira""";-22.00;00298_minuta.pdf;Emitido
+202506080772;2025-06-08;"Pix enviado: ""Cp :16501555-LUIZ HIDEO SAVAY""";-60.00;00299_minuta.pdf;Emitido
+202506080773;2025-06-08;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-25.16;00300_minuta.pdf;Emitido
+202506080774;2025-06-08;"Pix enviado: ""Cp :30306294-ALIPAY BRASIL MEIOS DE PAGAMENTO LTDA""";-44.80;00301_minuta.pdf;Emitido
+202506080775;2025-06-08;"Pix enviado: ""Cp :08561701-Sol Cargas Transportes Multimodal LTDA""";-73.53;00302_minuta.pdf;Emitido
+202506080776;2025-06-08;"Pix enviado: ""Cp :00360305-Marta Aparecida Fernandes""";-180.00;00303_minuta.pdf;Emitido
+202506080777;2025-06-08;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-15.59;00304_minuta.pdf;Emitido
+202506080778;2025-06-08;"Pix enviado: ""Cp :60701190-COMPANHIA BRASILEIRA DE DISTRIBUICAO""";-11.78;00305_minuta.pdf;Emitido
+202506080779;2025-06-08;"Pix enviado: ""Cp :21018182-Uber""";-16.30;00306_minuta.pdf;Emitido
+2025060807710;2025-06-08;"Pix enviado: ""Cp :90400888-VALU LANCHES""";-91.19;00307_minuta.pdf;Emitido
+202506070771;2025-06-07;"Pix enviado: ""Cp :21018182-Uber""";-13.36;00308_minuta.pdf;Emitido
+202506070772;2025-06-07;"Pix enviado: ""Cp :21018182-Uber""";-15.74;00309_minuta.pdf;Emitido
+202506070773;2025-06-07;"Pix recebido: ""Cp :18236120-Sueli Menezes Rosa""";2500.00;00310_minuta.pdf;Emitido
+202506070774;2025-06-07;"Pix enviado: ""Cp :90400888-Natalia Josy Alves de Oliveira""";-1440.00;00311_minuta.pdf;Emitido
+202506070775;2025-06-07;"Pix enviado: ""Cp :21018182-Uber""";-19.01;00312_minuta.pdf;Emitido
+202506070776;2025-06-07;"Pix enviado: ""Cp :60701190-COMPANHIA BRASILEIRA DE DISTRIBUICAO""";-277.91;00313_minuta.pdf;Emitido
+202506070777;2025-06-07;"Pix enviado: ""Cp :08561701-Associacao Bodes do Asfalto de Sao Jose do Rio Preto E Regiao""";-65.00;00314_minuta.pdf;Emitido
+202506070778;2025-06-07;"Pix enviado: ""Cp :00360305-Hilario Pinotti Filho""";-31.07;00315_minuta.pdf;Emitido
+202506070779;2025-06-07;"Pix recebido: ""Cp :18236120-Leticia Daniele da Silva dos Santos""";250.00;00316_minuta.pdf;Emitido
+2025060707710;2025-06-07;"Pix enviado: ""Cp :18236120-53082484 Jose Pereira Costa""";-618.25;00317_minuta.pdf;Emitido
+202506060771;2025-06-06;"Pix enviado: ""Cp :60701190-IFOODCOM AGENCIA DE RESTAURANTES ONLINE SA""";-32.09;00318_minuta.pdf;Emitido
+202506060772;2025-06-06;"Boleto de cobranca recebido: ""112/90322080717""";60.00;00319_minuta.pdf;Emitido
+202506060773;2025-06-06;"Pix recebido: ""Cp :00000000-ELISABETH Q RODRIGUES""";65.00;00320_minuta.pdf;Emitido
+202506060774;2025-06-06;"Pix recebido: ""Cp :00000000-DRAYCTON INDUSTRIAL TEXTIL LTDA""";65.00;00321_minuta.pdf;Emitido
+202506060775;2025-06-06;"Boleto de cobranca recebido: ""112/90322080659""";285.21;00322_minuta.pdf;Emitido
+202506060776;2025-06-06;"Boleto de cobranca recebido: ""112/90322080709""";250.00;00323_minuta.pdf;Emitido
+202506060777;2025-06-06;"Boleto de cobranca recebido: ""112/90321135637""";170.00;00324_minuta.pdf;Emitido
+202506060778;2025-06-06;"Boleto de cobranca recebido: ""112/90322080675""";60.00;00325_minuta.pdf;Emitido
+202506060779;2025-06-06;"Boleto de cobranca recebido: ""112/90322080618""";258.40;00326_minuta.pdf;Emitido
+2025060607710;2025-06-06;"Pix enviado: ""Cp :60701190-Nayra Kelly M Rodero Saraiva""";-1000.00;00327_minuta.pdf;Emitido
+2025060607711;2025-06-06;"Pix enviado: ""Cp :01027058-WILLIAM LOPES DA SILVARESTAURANTE""";-49.90;00328_minuta.pdf;Emitido
+202506050771;2025-06-05;"Boleto de cobranca recebido: ""112/90318054668""";1365.00;00329_minuta.pdf;Emitido
+202506050772;2025-06-05;"Boleto de cobranca recebido: ""112/90318858399""";1201.93;00330_minuta.pdf;Emitido
+202506050773;2025-06-05;"Boleto de cobranca recebido: ""112/90326590174""";120.00;00331_minuta.pdf;Emitido
+202506050774;2025-06-05;"Pix recebido: ""Cp :77984870-Agropulv Equipamentos Agricolas Ltda""";120.00;00332_minuta.pdf;Emitido
+202506050775;2025-06-05;"Pix enviado: ""Cp :10573521-Tatiane Lisboa Ribeiro""";-34.00;00333_minuta.pdf;Emitido
+202506050776;2025-06-05;"Boleto de cobranca recebido: ""112/90321807573""";90.01;00334_minuta.pdf;Emitido
+202506050777;2025-06-05;"Boleto de cobranca recebido: ""112/90322080667""";520.00;00335_minuta.pdf;Emitido
+202506050778;2025-06-05;"Pix enviado: ""Cp :90400888-William Lopes da Silva""";-50.90;00336_minuta.pdf;Emitido
+202506050779;2025-06-05;"Pix enviado: ""Cp :18236120-Luiza Silva de Oliveira""";-650.00;00337_minuta.pdf;Emitido
+2025060507710;2025-06-05;"Pix enviado: ""Cp :18236120-Sueli Menezes Rosa""";-2500.00;00338_minuta.pdf;Emitido
+2025060507711;2025-06-05;"Pix enviado: ""Cp :08071414-Alexandre Vigano Alarmes""";-95.00;00339_minuta.pdf;Emitido
+202506040771;2025-06-04;"Pix enviado: ""Cp :00000000-Ismael Pimentel Bueno de Godoi""";-40.00;00340_minuta.pdf;Emitido
+202506040772;2025-06-04;"Pix enviado: ""Cp :90400888-FRUTARIA JK LTDA ME""";-8.00;00341_minuta.pdf;Emitido
+202506040773;2025-06-04;"Pix enviado: ""Cp :90400888-FRUTARIA JK LTDA ME""";-17.00;00342_minuta.pdf;Emitido
+202506040774;2025-06-04;"Pix recebido: ""Cp :00000000-HIDROMI C PECAS HID LTDA""";60.00;00343_minuta.pdf;Emitido
+202506040775;2025-06-04;"Pix recebido: ""Cp :18236120-Lucas Casadio Orlandini""";60.00;00344_minuta.pdf;Emitido
+202506040776;2025-06-04;"Pix recebido: ""Cp :60701190-GSM COMERCIAL EXPORTADORA E IMPORTADORA LTDA""";60.00;00345_minuta.pdf;Emitido
+202506040777;2025-06-04;"Pix enviado: ""Cp :60701190-COMPANHIA BRASILEIRA DE DISTRIBUICAO""";-57.68;00346_minuta.pdf;Emitido
+202506040778;2025-06-04;"Pix enviado: ""Cp :90400888-CABRAL ESPETOS E PASTEIS""";-69.96;00347_minuta.pdf;Emitido
+202506030771;2025-06-03;"Pix enviado: ""Cp :60701190-IFOODCOM AGENCIA DE RESTAURANTES ONLINE SA""";-34.98;00348_minuta.pdf;Emitido
+202506030772;2025-06-03;"Pix enviado: ""Cp :54403563-M4 PRODUTOS E SERVICOS LTDA""";-30.00;00349_minuta.pdf;Emitido
+202506030773;2025-06-03;"Pix recebido: ""Cp :18236120-Kayrone Ferreira dos Santos Reis""";60.00;00350_minuta.pdf;Emitido
+202506030774;2025-06-03;"Pix recebido: ""Cp :18236120-Washington Valentim""";60.00;00351_minuta.pdf;Emitido
+202506030775;2025-06-03;"Pix recebido: ""Cp :90400888-RONEY RUIZ LOPES 10588719609""";90.00;00352_minuta.pdf;Emitido
+202506030776;2025-06-03;"Pix recebido: ""Cp :00000000-CIA L I LTDA - ME""";948.92;00353_minuta.pdf;Emitido
+202506030777;2025-06-03;"Pix recebido: ""Cp :08561701-CENTRALVIDROS AUTOMOVEIS E CAMINHOES LTDA""";74.40;00354_minuta.pdf;Emitido
+202506030778;2025-06-03;"Pix enviado: ""Cp :01027058-WILLIAM LOPES DA SILVARESTAURAN""";-42.90;00355_minuta.pdf;Emitido
+202506030779;2025-06-03;"Pix enviado: ""Cp :90400888-TELEFONICA BRASIL S A""";-484.44;00356_minuta.pdf;Emitido
+2025060307710;2025-06-03;"Pix enviado: ""Cp :90400888-TELEFONICA BRASIL S A""";-496.10;00357_minuta.pdf;Emitido
+2025060307711;2025-06-03;"Pix enviado: ""Cp :60701190-COMPANHIA BRASILEIRA DE DISTRIBUICAO""";-6.35;00358_minuta.pdf;Emitido
+2025060307712;2025-06-03;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-5.22;00359_minuta.pdf;Emitido
+2025060307713;2025-06-03;"Pix enviado: ""Cp :00000000-Domenico E Ravelli amp Cia LTDA""";-90.00;00360_minuta.pdf;Emitido
+2025060307714;2025-06-03;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-22.68;00361_minuta.pdf;Emitido
+2025060307715;2025-06-03;"Pix enviado: ""Cp :19468242-ZOOP BRASIL""";-103.33;00362_minuta.pdf;Emitido
+2025060307716;2025-06-03;"Pix enviado: ""Cp :90400888-COMPANHIA PAULISTA DE FORCA E LUZ""";-105.49;00363_minuta.pdf;Emitido
+202506020771;2025-06-02;"Pix enviado: ""Cp :08561701-LANCHONETE TURBO DOG""";-67.00;00364_minuta.pdf;Emitido
+202506020772;2025-06-02;"Pix recebido: ""Cp :60701190-GSM COMERCIAL EXPORTADORA E IMPORTADORA LTDA""";120.93;00365_minuta.pdf;Emitido
+202506020773;2025-06-02;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-120.00;00366_minuta.pdf;Emitido
+202506020774;2025-06-02;"Pix recebido: ""Cp :79052122-A De Paula Materiais Eletricos Ltda""";90.00;00367_minuta.pdf;Emitido
+202506020775;2025-06-02;"Boleto de cobranca recebido: ""112/90318966754""";220.00;00368_minuta.pdf;Emitido
+202506020776;2025-06-02;"Pix enviado: ""Cp :18236120-Denis de Jesus Sousa Ribeiro""";-89.10;00369_minuta.pdf;Emitido
+202506020777;2025-06-02;"Pix recebido: ""Cp :60746948-CARLOS EDUARDO PETRINI""";80.00;00370_minuta.pdf;Emitido
+202506020778;2025-06-02;"Pix enviado: ""Cp :61186680-Julio Cesar Goncalves Procopio""";-250.00;00371_minuta.pdf;Emitido
+202506020779;2025-06-02;"Pix enviado: ""Cp :90400888-FRUTARIA JK LTDA ME""";-52.00;00372_minuta.pdf;Emitido
+2025060207710;2025-06-02;"Pix recebido: ""Cp :71698674-EMIGRANTI WINES COMERCIO DE VINHOS LTDA""";275.00;00373_minuta.pdf;Emitido
+2025060207711;2025-06-02;"Pix enviado: ""Cp :18236120-Luiza Silva de Oliveira""";-200.00;00374_minuta.pdf;Emitido
+2025060207712;2025-06-02;"Pix enviado: ""Cp :21018182-Uber""";-17.67;00375_minuta.pdf;Emitido
+2025060207713;2025-06-02;"Pix enviado: ""Cp :21018182-Uber""";-15.80;00376_minuta.pdf;Emitido
+2025060207714;2025-06-02;"Pix enviado: ""Cp :21018182-Uber""";-3.56;00377_minuta.pdf;Emitido
+2025060207715;2025-06-02;"Pix enviado: ""Cp :18236120-Jose Eduardo Martin Rosa""";-35.00;00378_minuta.pdf;Emitido
+2025060207716;2025-06-02;"Pix recebido: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";350.00;00379_minuta.pdf;Emitido
+2025060207717;2025-06-02;"Pix enviado: ""Cp :18236120-Luiza Silva de Oliveira""";-300.00;00380_minuta.pdf;Emitido
+2025060207718;2025-06-02;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-20.00;00381_minuta.pdf;Emitido
+2025060207719;2025-06-02;"Boleto de cobranca recebido: ""112/90321167366""";600.00;00382_minuta.pdf;Emitido
+2025060207720;2025-06-02;"Pix enviado: ""Cp :60701190-CARREFOUR COMERCIO E INDUSTRIA LTDA""";-24.14;00383_minuta.pdf;Emitido
+2025060207721;2025-06-02;"Pix recebido: ""Cp :60746948-THOTHAL ETIQUETAS E RIBBONS LTDA""";148.00;00384_minuta.pdf;Emitido
+2025060207722;2025-06-02;"Boleto de cobranca recebido: ""112/90321628557""";210.00;00385_minuta.pdf;Emitido
+2025060207723;2025-06-02;"Boleto de cobranca recebido: ""112/90321699210""";148.00;00386_minuta.pdf;Emitido
+2025060207724;2025-06-02;"Pix enviado: ""00019 315320540 FELIPE CESAR CUNHA MONTEIRO""";-750.00;00387_minuta.pdf;Emitido
+2025060207725;2025-06-02;"Pix enviado: ""Cp :21018182-Uber""";-15.58;00388_minuta.pdf;Emitido
+2025060207726;2025-06-02;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-50.00;00389_minuta.pdf;Emitido
+2025060207727;2025-06-02;"Pix enviado: ""Cp :90400888-William Lopes da Silva""";-4.90;00390_minuta.pdf;Emitido
+2025060207728;2025-06-02;"Pix enviado: ""Cp :54403563-M4 PRODUTOS E SERVICOS LTDA""";-40.00;00391_minuta.pdf;Emitido
+2025060207729;2025-06-02;"Pix recebido: ""Cp :60701190-TIM S A""";3.00;00392_minuta.pdf;Emitido
+202506010771;2025-06-01;"Pix recebido: ""Cp :00000000-ADRIANO A O CORRENTE""";60.00;00393_minuta.pdf;Emitido
+202505310771;2025-05-31;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00394_minuta.pdf;Emitido
+202505310772;2025-05-31;"Pix recebido: ""Cp :60701190-HELDER FLAVIO FERREIRA""";120.00;00395_minuta.pdf;Emitido
+202505310773;2025-05-31;"Pix enviado: ""Cp :08561701-Sol Cargas Transportes Multimodal LTDA""";-42.05;00396_minuta.pdf;Emitido
+202505310774;2025-05-31;"Pix recebido: ""Cp :31872495-MATHEUS TROVATTI""";495.00;00397_minuta.pdf;Emitido
+202505310775;2025-05-31;"Pix enviado: ""Cp :60701190-COMPANHIA BRASILEIRA DE DISTRIBUICAO""";-9.33;00398_minuta.pdf;Emitido
+202505310776;2025-05-31;"Pix enviado: ""Cp :90400888-Vinicius de Souza Ferreira""";-180.00;00399_minuta.pdf;Emitido
+202505310777;2025-05-31;"Pix enviado: ""Cp :60701190-COMPANHIA BRASILEIRA DE DISTRIBUICAO""";-29.38;00400_minuta.pdf;Emitido
+202505310778;2025-05-31;"Pix enviado: ""Cp :21018182-Uber""";-13.12;00401_minuta.pdf;Emitido
+202505310779;2025-05-31;"Pix enviado: ""Cp :21018182-Uber""";-7.65;00402_minuta.pdf;Emitido
+2025053107710;2025-05-31;"Pix enviado: ""Cp :21018182-Uber""";-13.45;00403_minuta.pdf;Emitido
+2025053107711;2025-05-31;"Pix enviado: ""00019 315320540 FELIPE CESAR CUNHA MONTEIRO""";-200.00;00404_minuta.pdf;Emitido
+2025053107712;2025-05-31;"Pix enviado: ""Cp :60701190-CARREFOUR COMERCIO E INDUSTRIA LTDA""";-111.18;00405_minuta.pdf;Emitido
+2025053107713;2025-05-31;"Pix enviado: ""Cp :21018182-Uber""";-13.53;00406_minuta.pdf;Emitido
+202505300771;2025-05-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00407_minuta.pdf;Emitido
+202505300772;2025-05-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00408_minuta.pdf;Emitido
+202505300773;2025-05-30;"Transferencia recebida: ""341 9 147786 NARDINI AGROINDUSTRIAL LTDA""";449.01;00409_minuta.pdf;Emitido
+202505300774;2025-05-30;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-150.00;00410_minuta.pdf;Emitido
+202505300775;2025-05-30;"Pix enviado: ""Cp :90400888-I A M de Moraes Transportes  Me""";-400.00;00411_minuta.pdf;Emitido
+202505300776;2025-05-30;"Pix recebido: ""Cp :60701190-REAL LUSTRES M. J. LTDA""";60.00;00412_minuta.pdf;Emitido
+202505300777;2025-05-30;"Pix enviado: ""Cp :18236120-61028670 Thiago Alves Goncalves Silva""";-43.00;00413_minuta.pdf;Emitido
+202505300778;2025-05-30;"Pix recebido: ""Cp :37880206-47761786 JOAO FRANCISCO DA SILVA""";750.00;00414_minuta.pdf;Emitido
+202505300779;2025-05-30;"Pix enviado: ""Cp :18236120-Jose Eduardo Martin Rosa""";-180.00;00415_minuta.pdf;Emitido
+2025053007710;2025-05-30;"Pix enviado: ""Cp :31872495-Marco Encomendas LTDA""";-50.00;00416_minuta.pdf;Emitido
+2025053007711;2025-05-30;"Pix enviado: ""Cp :90400888-FRUTARIA JK LTDA ME""";-20.00;00417_minuta.pdf;Emitido
+2025053007712;2025-05-30;"Pix enviado: ""Cp :60746948-Anderson Rangel Ferreira de Almeida""";-60.00;00418_minuta.pdf;Emitido
+2025053007713;2025-05-30;"Pix enviado: ""Cp :79052122-Rafael Garcia Veiga 37010943818""";-60.00;00419_minuta.pdf;Emitido
+2025053007714;2025-05-30;"Pix enviado: ""00019 315320540 FELIPE CESAR CUNHA MONTEIRO""";-350.00;00420_minuta.pdf;Emitido
+2025053007715;2025-05-30;"Pix enviado: ""Cp :21018182-Uber""";-11.32;00421_minuta.pdf;Emitido
+2025053007716;2025-05-30;"Pix enviado: ""Cp :10573521-Tatiane Lisboa Ribeiro""";-33.00;00422_minuta.pdf;Emitido
+2025053007717;2025-05-30;"Pix recebido: ""Cp :00000000-HIDROMI C PECAS HID LTDA""";60.00;00423_minuta.pdf;Emitido
+2025053007718;2025-05-30;"Transferencia recebida: ""341 4009 814486 NARDINI AGROINDUSTRIAL LTDA""";268.00;00424_minuta.pdf;Emitido
+2025053007719;2025-05-30;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-300.00;00425_minuta.pdf;Emitido
+2025053007720;2025-05-30;"Pix recebido: ""Cp :67096909-WILGNER FERREIRA DINIZ""";90.00;00426_minuta.pdf;Emitido
+2025053007721;2025-05-30;"Pix recebido: ""Cp :71328769-CALTOR PECAS E SERVICOS LTDA""";60.00;00427_minuta.pdf;Emitido
+2025053007722;2025-05-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00428_minuta.pdf;Emitido
+2025053007723;2025-05-30;"Pix recebido: ""Cp :00000000-FIVELTEC IND METAIS LTDA""";380.00;00429_minuta.pdf;Emitido
+2025053007724;2025-05-30;"Pix recebido: ""Cp :71328769-A.C.O EMBALAGENS LTDA""";205.00;00430_minuta.pdf;Emitido
+2025053007725;2025-05-30;"Pix recebido: ""Cp :71328769-A.C.O EMBALAGENS LTDA""";160.00;00431_minuta.pdf;Emitido
+2025053007726;2025-05-30;"Pix recebido: ""Cp :71328769-A.C.O EMBALAGENS LTDA""";94.00;00432_minuta.pdf;Emitido
+2025053007727;2025-05-30;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-1000.00;00433_minuta.pdf;Emitido
+2025053007728;2025-05-30;"Pix recebido: ""Cp :03065046-Apc Eletrometalurgica Rio Preto Ltda""";575.00;00434_minuta.pdf;Emitido
+2025053007729;2025-05-30;"Boleto de cobranca recebido: ""112/90316047037""";274.00;00435_minuta.pdf;Emitido
+2025053007730;2025-05-30;"Boleto de cobranca recebido: ""112/90316278194""";230.00;00436_minuta.pdf;Emitido
+2025053007731;2025-05-30;"Pix enviado: ""00019 315320540 FELIPE CESAR CUNHA MONTEIRO""";-310.00;00437_minuta.pdf;Emitido
+2025053007732;2025-05-30;"Pix recebido: ""Cp :37880206-47761786 JOAO FRANCISCO DA SILVA""";91.00;00438_minuta.pdf;Emitido
+2025053007733;2025-05-30;"Pix enviado: ""Cp :18236120-Cfg Express Transportes LTDA""";-141.39;00439_minuta.pdf;Emitido
+2025053007734;2025-05-30;"Pix enviado: ""Cp :31872495-20521574 Thiago Ramos Costa""";-180.00;00440_minuta.pdf;Emitido
+2025053007735;2025-05-30;"Pix enviado: ""Cp :21018182-Uber""";-10.61;00441_minuta.pdf;Emitido
+2025053007736;2025-05-30;"Pix enviado: ""Cp :21018182-Uber""";-15.82;00442_minuta.pdf;Emitido
+2025053007737;2025-05-30;"Pix enviado: ""Cp :18236120-Weverson Willyam Ramalho Acioli 45958461850""";-300.00;00443_minuta.pdf;Emitido
+2025053007738;2025-05-30;"Pix enviado: ""Cp :18236120-Adauto Salvador Francisco 14950997840""";-154.00;00444_minuta.pdf;Emitido
+2025053007739;2025-05-30;"Pix enviado: ""Cp :21018182-Uber""";-19.53;00445_minuta.pdf;Emitido
+2025053007740;2025-05-30;"Pix enviado: ""Cp :90400888-BAR DO PORTUGUES""";-10.00;00446_minuta.pdf;Emitido
+2025053007741;2025-05-30;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-31.67;00447_minuta.pdf;Emitido
+202505290771;2025-05-29;"Pix recebido: ""Cp :60701190-BR LUX LTDA""";95.00;00448_minuta.pdf;Emitido
+202505290772;2025-05-29;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00449_minuta.pdf;Emitido
+202505290773;2025-05-29;"Pix recebido: ""Cp :60746948-W ELAN INDUSTRIA E COMERCIO E. LTDA""";220.00;00450_minuta.pdf;Emitido
+202505290774;2025-05-29;"Pix recebido: ""Cp :60746948-JOAO BATISTA CAMPOS""";90.00;00451_minuta.pdf;Emitido
+202505290775;2025-05-29;"Pix recebido: ""Cp :60701190-JS- COMERCIO DE COMPRESSORES LTDA""";340.00;00452_minuta.pdf;Emitido
+202505290776;2025-05-29;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-700.00;00453_minuta.pdf;Emitido
+202505290777;2025-05-29;"Pix enviado: ""Cp :90400888-Nayra Kelly Molina Rodero Saraiva""";-40.00;00454_minuta.pdf;Emitido
+202505290778;2025-05-29;"Boleto de cobranca recebido: ""112/90279345774""";1407.91;00455_minuta.pdf;Emitido
+202505290779;2025-05-29;"Boleto de cobranca recebido: ""112/90312903316""";159.60;00456_minuta.pdf;Emitido
+2025052907710;2025-05-29;"Pix enviado: ""Cp :90400888-Nayra Kelly Molina Rodero Saraiva""";-96.00;00457_minuta.pdf;Emitido
+2025052907711;2025-05-29;"Pix enviado: ""Cp :22896431-Rodrigo Carlos da Silva""";-140.00;00458_minuta.pdf;Emitido
+2025052907712;2025-05-29;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-120.00;00459_minuta.pdf;Emitido
+2025052907713;2025-05-29;"Pix enviado: ""Cp :90400888-Danilo Fernandes Saraiva""";-488.00;00460_minuta.pdf;Emitido
+2025052907714;2025-05-29;"Pix recebido: ""Cp :00000000-60.287.267 B F PONSONI""";130.00;00461_minuta.pdf;Emitido
+2025052907715;2025-05-29;"Pix enviado: ""Cp :03065046-Cavaleiros de Aco Noroeste Paulista 417""";-500.00;00462_minuta.pdf;Emitido
+2025052907716;2025-05-29;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-250.00;00463_minuta.pdf;Emitido
+202505280771;2025-05-28;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-12.10;00464_minuta.pdf;Emitido
+202505280772;2025-05-28;"Pix recebido: ""Cp :90400888-FORCEPARTS COMERCIO DE PECAS E IMPLEMENT""";235.00;00465_minuta.pdf;Emitido
+202505280773;2025-05-28;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-100.08;00466_minuta.pdf;Emitido
+202505280774;2025-05-28;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-130.00;00467_minuta.pdf;Emitido
+202505280775;2025-05-28;"Pix recebido: ""Cp :60746948-ROSOLEN COMERCIO DE MALHAS E TECIDOS LTDA""";95.00;00468_minuta.pdf;Emitido
+202505280776;2025-05-28;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-50.00;00469_minuta.pdf;Emitido
+202505280777;2025-05-28;"Pix enviado: ""Cp :00360305-Janaina Carla Ferreira da Silva""";-26.00;00470_minuta.pdf;Emitido
+202505280778;2025-05-28;"Pix recebido: ""Cp :32402502-M. & S. RODANTE COMERCIO E INDUSTRIA LTDA""";230.00;00471_minuta.pdf;Emitido
+202505280779;2025-05-28;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-150.00;00472_minuta.pdf;Emitido
+2025052807710;2025-05-28;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-20.00;00473_minuta.pdf;Emitido
+2025052807711;2025-05-28;"Pix recebido: ""Cp :60701190-AGRIART PECAS AGRICOLAS LTDA""";60.00;00474_minuta.pdf;Emitido
+2025052807712;2025-05-28;"Pix enviado: ""Cp :21018182-Uber""";-18.08;00475_minuta.pdf;Emitido
+2025052807713;2025-05-28;"Boleto de cobranca recebido: ""112/90279345501""";133.12;00476_minuta.pdf;Emitido
+2025052807714;2025-05-28;"Pix enviado: ""Cp :31872495-20521574 Thiago Ramos Costa""";-90.00;00477_minuta.pdf;Emitido
+2025052807715;2025-05-28;"Pix enviado: ""Cp :18236120-Thiago Alves Goncalves Silva""";-132.00;00478_minuta.pdf;Emitido
+2025052807716;2025-05-28;"Pix enviado: ""Cp :22896431-Adney Leite da Silva""";-36.00;00479_minuta.pdf;Emitido
+202505270771;2025-05-27;"Pix recebido: ""Cp :60746948-Ecel Ind. e Com. Ltda""";85.00;00480_minuta.pdf;Emitido
+202505270772;2025-05-27;"Pix recebido: ""Cp :60746948-BRASILEX REBOLOS E ABRASIVOS LTDA.""";48.00;00481_minuta.pdf;Emitido
+202505270773;2025-05-27;"Pix enviado: ""Cp :60701190-Bravo City Hotel Sao Jose do Rio Preto LTDA""";-149.00;00482_minuta.pdf;Emitido
+202505270774;2025-05-27;"Pix enviado: ""00019 403444195 KIBERAMA RESTAURANTE ARABE LTDA""";-7.50;00483_minuta.pdf;Emitido
+202505270775;2025-05-27;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-4.06;00484_minuta.pdf;Emitido
+202505270776;2025-05-27;"Pix enviado: ""Cp :21018182-Uber""";-12.27;00485_minuta.pdf;Emitido
+202505270777;2025-05-27;"Pix enviado: ""Cp :01027058-WILLIAM LOPES DA SILVARESTAURAN""";-43.90;00486_minuta.pdf;Emitido
+202505260771;2025-05-26;"Pix recebido: ""Cp :60701190-SAVIO MALVESTIO""";90.00;00487_minuta.pdf;Emitido
+202505260772;2025-05-26;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-90.00;00488_minuta.pdf;Emitido
+202505260773;2025-05-26;"Pix recebido: ""Cp :18236120-Pedro Lopes""";50.00;00489_minuta.pdf;Emitido
+202505260774;2025-05-26;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-50.00;00490_minuta.pdf;Emitido
+202505260775;2025-05-26;"Pix recebido: ""Cp :60746948-SONIA PERPETUA THOMAS""";80.00;00491_minuta.pdf;Emitido
+202505260776;2025-05-26;"Pix enviado: ""Cp :18236120-Jose Eduardo Martin Rosa""";-80.00;00492_minuta.pdf;Emitido
+202505260777;2025-05-26;"Pix recebido: ""Cp :60701190-GSM COMERCIAL EXPORTADORA E IM""";376.59;00493_minuta.pdf;Emitido
+202505260778;2025-05-26;"Pix enviado: ""Cp :10573521-Ezequiel Lugatto Siqueira""";-86.00;00494_minuta.pdf;Emitido
+202505260779;2025-05-26;"Pix enviado: ""Cp :90400888-JANAINA CARLA FERREIRA DA DILVA""";-26.00;00495_minuta.pdf;Emitido
+2025052607710;2025-05-26;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-50.00;00496_minuta.pdf;Emitido
+2025052607711;2025-05-26;"Pix recebido: ""Cp :82065285-Mc Comercio De Abrasivos Ltda""";80.00;00497_minuta.pdf;Emitido
+2025052607712;2025-05-26;"Pix recebido: ""Cp :71328769-VIVIANE E SILVA ROTIROTI""";70.00;00498_minuta.pdf;Emitido
+2025052607713;2025-05-26;"Pix recebido: ""00019 219817430 LZP COMERCIAL LTDA""";60.00;00499_minuta.pdf;Emitido
+2025052607714;2025-05-26;"Pix enviado: ""Cp :18236120-Luiza Silva de Oliveira""";-400.00;00500_minuta.pdf;Emitido
+2025052607715;2025-05-26;"Pix enviado: ""Cp :21018182-Uber""";-5.25;00501_minuta.pdf;Emitido
+2025052607716;2025-05-26;"Pix enviado: ""Cp :21018182-Uber""";-10.27;00502_minuta.pdf;Emitido
+2025052607717;2025-05-26;"Pix recebido: ""Cp :60701190-PROLINK INDUSTRIA QUIMICA LTDA""";198.00;00503_minuta.pdf;Emitido
+2025052607718;2025-05-26;"Pix enviado: ""Cp :00360305-Antonio Barbosa de Souza Junior""";-80.00;00504_minuta.pdf;Emitido
+2025052607719;2025-05-26;"Pix recebido: ""Cp :69346856-AGRODEMP COMERCIO DE PECAS E IMPLEMENTOS AGRICOLAS""";85.00;00505_minuta.pdf;Emitido
+2025052607720;2025-05-26;"Pix recebido: ""Cp :60701190-VANDERCLAITON PEREIRA CORREA""";60.00;00506_minuta.pdf;Emitido
+2025052607721;2025-05-26;"Pix enviado: ""Cp :21018182-Uber""";-6.21;00507_minuta.pdf;Emitido
+2025052607722;2025-05-26;"Pix enviado: ""Cp :21018182-Uber""";-7.89;00508_minuta.pdf;Emitido
+2025052607723;2025-05-26;"Pix recebido: ""Cp :90400888-SRV COMERCIAL ELETRICA LTDA EPP""";70.00;00509_minuta.pdf;Emitido
+2025052607724;2025-05-26;"Pix enviado: ""Cp :10573521-Ezequiel Lugatto Siqueira""";-100.00;00510_minuta.pdf;Emitido
+2025052607725;2025-05-26;"Pix enviado: ""Cp :31872495-Paulo Henrique""";-60.00;00511_minuta.pdf;Emitido
+2025052607726;2025-05-26;"Pix recebido: ""Cp :54037916-VIP VINHOS - EIRELI""";370.00;00512_minuta.pdf;Emitido
+2025052607727;2025-05-26;"Pix enviado: ""Cp :18236120-Thiago Alves Goncalves Silva""";-108.00;00513_minuta.pdf;Emitido
+2025052607728;2025-05-26;"Pix enviado: ""Cp :60746948-Edmilson Jesus dos Santos""";-60.00;00514_minuta.pdf;Emitido
+2025052607729;2025-05-26;"Pix enviado: ""Cp :21018182-Uber""";-16.53;00515_minuta.pdf;Emitido
+2025052607730;2025-05-26;"Pix enviado: ""Cp :21018182-Uber""";-15.11;00516_minuta.pdf;Emitido
+2025052607731;2025-05-26;"Pix enviado: ""Cp :16501555-LUIZ HIDEO SAVAY""";-46.50;00517_minuta.pdf;Emitido
+2025052607732;2025-05-26;"Pix enviado: ""Cp :54403563-M4 PRODUTOS E SERVICOS LTDA""";-40.00;00518_minuta.pdf;Emitido
+2025052607733;2025-05-26;"Pix enviado: ""Cp :60701190-Bravo City Hotel Sao Jose do Rio Preto LTDA""";-156.00;00519_minuta.pdf;Emitido
+202505250771;2025-05-25;"Pix enviado: ""Cp :21018182-Uber""";-14.69;00520_minuta.pdf;Emitido
+202505250772;2025-05-25;"Pix enviado: ""Cp :90400888-RAIA DROGASIL SA""";-29.66;00521_minuta.pdf;Emitido
+202505250773;2025-05-25;"Pix enviado: ""Cp :60701190-LANCHES E CAFE CONTE LTDA""";-21.00;00522_minuta.pdf;Emitido
+202505250774;2025-05-25;"Pix enviado: ""Cp :21018182-Uber""";-14.55;00523_minuta.pdf;Emitido
+202505250775;2025-05-25;"Pix enviado: ""Cp :21018182-Uber""";-11.58;00524_minuta.pdf;Emitido
+202505250776;2025-05-25;"Pix enviado: ""Cp :90400888-Danilo Fernandes Saraiva""";-111.44;00525_minuta.pdf;Emitido
+202505240771;2025-05-24;"Pix recebido: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";202.41;00526_minuta.pdf;Emitido
+202505220771;2025-05-22;"Pix recebido: ""Cp :60701190-TIM S A""";3.00;00527_minuta.pdf;Emitido
+202505220772;2025-05-22;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00528_minuta.pdf;Emitido
+202505210771;2025-05-21;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-51.50;00529_minuta.pdf;Emitido
+202505210772;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00530_minuta.pdf;Emitido
+202505210773;2025-05-21;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-6.01;00531_minuta.pdf;Emitido
+202505210774;2025-05-21;"Boleto de cobranca recebido: ""112/90308067506""";1110.00;00532_minuta.pdf;Emitido
+202505210775;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00533_minuta.pdf;Emitido
+202505210776;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00534_minuta.pdf;Emitido
+202505210777;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00535_minuta.pdf;Emitido
+202505210778;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00536_minuta.pdf;Emitido
+202505210779;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00537_minuta.pdf;Emitido
+2025052107710;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00538_minuta.pdf;Emitido
+2025052107711;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00539_minuta.pdf;Emitido
+2025052107712;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00540_minuta.pdf;Emitido
+2025052107713;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00541_minuta.pdf;Emitido
+2025052107714;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00542_minuta.pdf;Emitido
+2025052107715;2025-05-21;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00543_minuta.pdf;Emitido
+2025052107716;2025-05-21;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-1082.61;00544_minuta.pdf;Emitido
+202505200771;2025-05-20;"Pix recebido: ""Cp :90400888-NARDINI AGROINDUSTRIAL LTDA""";630.06;00545_minuta.pdf;Emitido
+202505200772;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00546_minuta.pdf;Emitido
+202505200773;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00547_minuta.pdf;Emitido
+202505200774;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00548_minuta.pdf;Emitido
+202505200775;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00549_minuta.pdf;Emitido
+202505200776;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00550_minuta.pdf;Emitido
+202505200777;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00551_minuta.pdf;Emitido
+202505200778;2025-05-20;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-615.12;00552_minuta.pdf;Emitido
+202505200779;2025-05-20;"Transferencia recebida: ""033 3 130105157 NARDINI AGROINDUSTRIAL LTDA""";112.28;00553_minuta.pdf;Emitido
+2025052007710;2025-05-20;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-112.28;00554_minuta.pdf;Emitido
+2025052007711;2025-05-20;"Boleto de cobranca recebido: ""112/90304141339""";60.00;00555_minuta.pdf;Emitido
+2025052007712;2025-05-20;"Boleto de cobranca recebido: ""112/90304141347""";60.00;00556_minuta.pdf;Emitido
+2025052007713;2025-05-20;"Boleto de cobranca recebido: ""112/90304141453""";80.00;00557_minuta.pdf;Emitido
+2025052007714;2025-05-20;"Boleto de cobranca recebido: ""112/90304141701""";60.00;00558_minuta.pdf;Emitido
+2025052007715;2025-05-20;"Boleto de cobranca recebido: ""112/90304141552""";70.00;00559_minuta.pdf;Emitido
+2025052007716;2025-05-20;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-330.00;00560_minuta.pdf;Emitido
+2025052007717;2025-05-20;"Boleto de cobranca recebido: ""112/90304141719""";60.00;00561_minuta.pdf;Emitido
+2025052007718;2025-05-20;"Boleto de cobranca recebido: ""112/90304141198""";206.23;00562_minuta.pdf;Emitido
+2025052007719;2025-05-20;"Boleto de cobranca recebido: ""112/90304141511""";144.00;00563_minuta.pdf;Emitido
+2025052007720;2025-05-20;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-410.23;00564_minuta.pdf;Emitido
+2025052007721;2025-05-20;"Boleto de cobranca recebido: ""112/90304141628""";48.00;00565_minuta.pdf;Emitido
+2025052007722;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00566_minuta.pdf;Emitido
+2025052007723;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00567_minuta.pdf;Emitido
+2025052007724;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00568_minuta.pdf;Emitido
+2025052007725;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00569_minuta.pdf;Emitido
+2025052007726;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00570_minuta.pdf;Emitido
+2025052007727;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00571_minuta.pdf;Emitido
+2025052007728;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00572_minuta.pdf;Emitido
+2025052007729;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00573_minuta.pdf;Emitido
+2025052007730;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00574_minuta.pdf;Emitido
+2025052007731;2025-05-20;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00575_minuta.pdf;Emitido
+2025052007732;2025-05-20;"Boleto de cobranca recebido: ""112/90304141487""";359.90;00576_minuta.pdf;Emitido
+2025052007733;2025-05-20;"Boleto de cobranca recebido: ""112/90304141461""";259.00;00577_minuta.pdf;Emitido
+2025052007734;2025-05-20;"Boleto de cobranca recebido: ""112/90304141412""";60.00;00578_minuta.pdf;Emitido
+2025052007735;2025-05-20;"Boleto de cobranca recebido: ""112/90304141537""";72.05;00579_minuta.pdf;Emitido
+2025052007736;2025-05-20;"Boleto de cobranca recebido: ""112/90304141479""";120.00;00580_minuta.pdf;Emitido
+2025052007737;2025-05-20;"Boleto de cobranca recebido: ""112/90304141651""";120.00;00581_minuta.pdf;Emitido
+2025052007738;2025-05-20;"Boleto de cobranca recebido: ""112/90304141206""";260.00;00582_minuta.pdf;Emitido
+2025052007739;2025-05-20;"Boleto de cobranca recebido: ""112/90304141420""";90.00;00583_minuta.pdf;Emitido
+2025052007740;2025-05-20;"Boleto de cobranca recebido: ""112/90304141388""";90.00;00584_minuta.pdf;Emitido
+2025052007741;2025-05-20;"Boleto de cobranca recebido: ""112/90304141545""";60.00;00585_minuta.pdf;Emitido
+2025052007742;2025-05-20;"Boleto de cobranca recebido: ""112/90304141263""";100.00;00586_minuta.pdf;Emitido
+2025052007743;2025-05-20;"Boleto de cobranca recebido: ""112/90304141180""";60.00;00587_minuta.pdf;Emitido
+2025052007744;2025-05-20;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-1674.05;00588_minuta.pdf;Emitido
+2025052007745;2025-05-20;"Boleto de cobranca recebido: ""112/90304141297""";60.00;00589_minuta.pdf;Emitido
+202505190771;2025-05-19;"Boleto de cobranca recebido: ""112/90301906429""";99.12;00590_minuta.pdf;Emitido
+202505190772;2025-05-19;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00591_minuta.pdf;Emitido
+202505190773;2025-05-19;"Pix enviado: ""Cp :10573521-LALAMOVE TECNOLOGIA BRASIL LTDA""";-70.00;00592_minuta.pdf;Emitido
+202505190774;2025-05-19;"Boleto de cobranca recebido: ""112/90301906163""";97.50;00593_minuta.pdf;Emitido
+202505190775;2025-05-19;"Boleto de cobranca recebido: ""112/90301906536""";60.00;00594_minuta.pdf;Emitido
+202505190776;2025-05-19;"Boleto de cobranca recebido: ""112/90301906478""";125.00;00595_minuta.pdf;Emitido
+202505190777;2025-05-19;"Boleto de cobranca recebido: ""112/90304141602""";60.00;00596_minuta.pdf;Emitido
+202505190778;2025-05-19;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-369.13;00597_minuta.pdf;Emitido
+202505190779;2025-05-19;"Boleto de cobranca recebido: ""112/90301906353""";154.20;00598_minuta.pdf;Emitido
+2025051907710;2025-05-19;"Boleto de cobranca recebido: ""112/90304141560""";130.00;00599_minuta.pdf;Emitido
+2025051907711;2025-05-19;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-284.20;00600_minuta.pdf;Emitido
+202505170771;2025-05-17;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00601_minuta.pdf;Emitido
+202505170772;2025-05-17;"Pix enviado: ""Cp :08561701-49188538 ALEXANDRO RIBEIRO DE QUEIROZ""";-33.00;00602_minuta.pdf;Emitido
+202505170773;2025-05-17;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-50.00;00603_minuta.pdf;Emitido
+202505170774;2025-05-17;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-31.80;00604_minuta.pdf;Emitido
+202505160771;2025-05-16;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-627.40;00605_minuta.pdf;Emitido
+202505160772;2025-05-16;"Boleto de cobranca recebido: ""112/90301906148""";66.02;00606_minuta.pdf;Emitido
+202505160773;2025-05-16;"Boleto de cobranca recebido: ""112/90304141370""";230.00;00607_minuta.pdf;Emitido
+202505160774;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00608_minuta.pdf;Emitido
+202505160775;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00609_minuta.pdf;Emitido
+202505160776;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00610_minuta.pdf;Emitido
+202505160777;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00611_minuta.pdf;Emitido
+202505160778;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00612_minuta.pdf;Emitido
+202505160779;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00613_minuta.pdf;Emitido
+2025051607710;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00614_minuta.pdf;Emitido
+2025051607711;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00615_minuta.pdf;Emitido
+2025051607712;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00616_minuta.pdf;Emitido
+2025051607713;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00617_minuta.pdf;Emitido
+2025051607714;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00618_minuta.pdf;Emitido
+2025051607715;2025-05-16;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-268.00;00619_minuta.pdf;Emitido
+2025051607716;2025-05-16;"Boleto de cobranca recebido: ""112/90301906122""";66.02;00620_minuta.pdf;Emitido
+2025051607717;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00621_minuta.pdf;Emitido
+2025051607718;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00622_minuta.pdf;Emitido
+2025051607719;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00623_minuta.pdf;Emitido
+2025051607720;2025-05-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00624_minuta.pdf;Emitido
+2025051607721;2025-05-16;"Boleto de cobranca recebido: ""112/90301906171""";60.52;00625_minuta.pdf;Emitido
+202505150771;2025-05-15;"Boleto de cobranca recebido: ""112/90301906551""";626.69;00626_minuta.pdf;Emitido
+202505150772;2025-05-15;"Boleto de cobranca recebido: ""112/90301906528""";292.87;00627_minuta.pdf;Emitido
+202505150773;2025-05-15;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-292.87;00628_minuta.pdf;Emitido
+202505150774;2025-05-15;"Boleto de cobranca recebido: ""112/90301906452""";913.08;00629_minuta.pdf;Emitido
+202505150775;2025-05-15;"Boleto de cobranca recebido: ""112/90301906486""";65.00;00630_minuta.pdf;Emitido
+202505150776;2025-05-15;"Boleto de cobranca recebido: ""112/90301906114""";154.91;00631_minuta.pdf;Emitido
+202505150777;2025-05-15;"Boleto de cobranca recebido: ""112/90304141248""";1248.00;00632_minuta.pdf;Emitido
+202505150778;2025-05-15;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-2380.99;00633_minuta.pdf;Emitido
+202505150779;2025-05-15;"Boleto de cobranca recebido: ""112/90301906395""";297.00;00634_minuta.pdf;Emitido
+2025051507710;2025-05-15;"Boleto de cobranca recebido: ""112/90301906445""";80.00;00635_minuta.pdf;Emitido
+2025051507711;2025-05-15;"Boleto de cobranca recebido: ""112/90301906437""";455.00;00636_minuta.pdf;Emitido
+2025051507712;2025-05-15;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-832.00;00637_minuta.pdf;Emitido
+2025051507713;2025-05-15;"Boleto de cobranca recebido: ""112/90301906007""";60.00;00638_minuta.pdf;Emitido
+2025051507714;2025-05-15;"Pix enviado: ""Cp :10573521-LALAMOVE TECNOLOGIA BRASIL LTDA""";-50.00;00639_minuta.pdf;Emitido
+2025051507715;2025-05-15;"Boleto de cobranca recebido: ""112/90301906361""";60.00;00640_minuta.pdf;Emitido
+2025051507716;2025-05-15;"Boleto de cobranca recebido: ""112/90301905983""";95.00;00641_minuta.pdf;Emitido
+2025051507717;2025-05-15;"Boleto de cobranca recebido: ""112/90301906213""";60.00;00642_minuta.pdf;Emitido
+2025051507718;2025-05-15;"Boleto de cobranca recebido: ""112/90301906312""";60.00;00643_minuta.pdf;Emitido
+2025051507719;2025-05-15;"Boleto de cobranca recebido: ""112/90301906569""";605.80;00644_minuta.pdf;Emitido
+2025051507720;2025-05-15;"Boleto de cobranca recebido: ""112/90301906155""";60.00;00645_minuta.pdf;Emitido
+2025051507721;2025-05-15;"Boleto de cobranca recebido: ""112/90301906072""";90.00;00646_minuta.pdf;Emitido
+2025051507722;2025-05-15;"Boleto de cobranca recebido: ""112/90301906387""";250.00;00647_minuta.pdf;Emitido
+2025051507723;2025-05-15;"Boleto de cobranca recebido: ""112/90301906064""";705.00;00648_minuta.pdf;Emitido
+2025051507724;2025-05-15;"Boleto de cobranca recebido: ""112/90301906510""";120.00;00649_minuta.pdf;Emitido
+2025051507725;2025-05-15;"Boleto de cobranca recebido: ""112/90301906221""";130.00;00650_minuta.pdf;Emitido
+2025051507726;2025-05-15;"Boleto de cobranca recebido: ""112/90301905975""";210.00;00651_minuta.pdf;Emitido
+2025051507727;2025-05-15;"Boleto de cobranca recebido: ""112/90301906262""";60.00;00652_minuta.pdf;Emitido
+2025051507728;2025-05-15;"Boleto de cobranca recebido: ""112/90301906320""";372.60;00653_minuta.pdf;Emitido
+2025051507729;2025-05-15;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-2888.40;00654_minuta.pdf;Emitido
+2025051507730;2025-05-15;"Boleto de cobranca recebido: ""112/90301906411""";60.00;00655_minuta.pdf;Emitido
+2025051507731;2025-05-15;"Boleto de cobranca recebido: ""112/90301906031""";294.95;00656_minuta.pdf;Emitido
+2025051507732;2025-05-15;"Pix enviado: ""Cp :08561701-Sol Cargas Transportes Multimodal LTDA""";-169.16;00657_minuta.pdf;Emitido
+2025051507733;2025-05-15;"Boleto de cobranca recebido: ""112/90301906247""";60.00;00658_minuta.pdf;Emitido
+2025051507734;2025-05-15;"Boleto de cobranca recebido: ""112/90301905991""";358.00;00659_minuta.pdf;Emitido
+2025051507735;2025-05-15;"Boleto de cobranca recebido: ""112/90301905967""";160.00;00660_minuta.pdf;Emitido
+2025051507736;2025-05-15;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-763.00;00661_minuta.pdf;Emitido
+202505140771;2025-05-14;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-421.76;00662_minuta.pdf;Emitido
+202505140772;2025-05-14;"Boleto de cobranca recebido: ""112/90301906098""";60.00;00663_minuta.pdf;Emitido
+202505140773;2025-05-14;"Boleto de cobranca recebido: ""112/90304141149""";200.00;00664_minuta.pdf;Emitido
+202505140774;2025-05-14;"Boleto de cobranca recebido: ""112/90304141255""";190.00;00665_minuta.pdf;Emitido
+202505140775;2025-05-14;"Boleto de cobranca recebido: ""112/90301906080""";132.36;00666_minuta.pdf;Emitido
+202505140776;2025-05-14;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-582.36;00667_minuta.pdf;Emitido
+202505130771;2025-05-13;"Boleto de cobranca recebido: ""112/90301906502""";380.00;00668_minuta.pdf;Emitido
+202505130772;2025-05-13;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-384.66;00669_minuta.pdf;Emitido
+202505130773;2025-05-13;"Boleto de cobranca recebido: ""112/90296653655""";421.76;00670_minuta.pdf;Emitido
+202505120771;2025-05-12;"Transferencia recebida: ""033 3 130105157 NARDINI AGROINDUSTRIAL LTDA""";375.00;00671_minuta.pdf;Emitido
+202505120772;2025-05-12;"Transferencia recebida: ""341 9 147786 NARDINI AGROINDUSTRIAL LTDA""";1098.81;00672_minuta.pdf;Emitido
+202505120773;2025-05-12;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-1473.00;00673_minuta.pdf;Emitido
+202505120774;2025-05-12;"Boleto de cobranca recebido: ""112/90301906338""";60.00;00674_minuta.pdf;Emitido
+202505120775;2025-05-12;"Boleto de cobranca recebido: ""112/90301906544""";313.82;00675_minuta.pdf;Emitido
+202505120776;2025-05-12;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-370.00;00676_minuta.pdf;Emitido
+202505070771;2025-05-07;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-22.00;00677_minuta.pdf;Emitido
+202505060771;2025-05-06;"Pix enviado: ""Cp :30385259-KUPFY""";-19.99;00678_minuta.pdf;Emitido
+202505050771;2025-05-05;"Boleto de cobranca recebido: ""112/90279345030""";38.55;00679_minuta.pdf;Emitido
+202505050772;2025-05-05;"Boleto de cobranca recebido: ""112/90279345899""";176.25;00680_minuta.pdf;Emitido
+202505050773;2025-05-05;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-214.00;00681_minuta.pdf;Emitido
+202505050774;2025-05-05;"Boleto de cobranca recebido: ""112/90279345923""";132.20;00682_minuta.pdf;Emitido
+202505050775;2025-05-05;"Pix enviado: ""Cp :10573521-Igor Melo de Lucena""";-91.16;00683_minuta.pdf;Emitido
+202505030771;2025-05-03;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-703.00;00684_minuta.pdf;Emitido
+202505020771;2025-05-02;"Boleto de cobranca recebido: ""112/90275846718""";160.00;00685_minuta.pdf;Emitido
+202505020772;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00686_minuta.pdf;Emitido
+202505020773;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00687_minuta.pdf;Emitido
+202505020774;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00688_minuta.pdf;Emitido
+202505020775;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00689_minuta.pdf;Emitido
+202505020776;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00690_minuta.pdf;Emitido
+202505020777;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00691_minuta.pdf;Emitido
+202505020778;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00692_minuta.pdf;Emitido
+202505020779;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00693_minuta.pdf;Emitido
+2025050207710;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00694_minuta.pdf;Emitido
+2025050207711;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00695_minuta.pdf;Emitido
+2025050207712;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00696_minuta.pdf;Emitido
+2025050207713;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00697_minuta.pdf;Emitido
+2025050207714;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00698_minuta.pdf;Emitido
+2025050207715;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00699_minuta.pdf;Emitido
+2025050207716;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00700_minuta.pdf;Emitido
+2025050207717;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00701_minuta.pdf;Emitido
+2025050207718;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00702_minuta.pdf;Emitido
+2025050207719;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00703_minuta.pdf;Emitido
+2025050207720;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00704_minuta.pdf;Emitido
+2025050207721;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00705_minuta.pdf;Emitido
+2025050207722;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00706_minuta.pdf;Emitido
+2025050207723;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00707_minuta.pdf;Emitido
+2025050207724;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00708_minuta.pdf;Emitido
+2025050207725;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00709_minuta.pdf;Emitido
+2025050207726;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00710_minuta.pdf;Emitido
+2025050207727;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00711_minuta.pdf;Emitido
+2025050207728;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00712_minuta.pdf;Emitido
+2025050207729;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00713_minuta.pdf;Emitido
+2025050207730;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00714_minuta.pdf;Emitido
+2025050207731;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00715_minuta.pdf;Emitido
+2025050207732;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00716_minuta.pdf;Emitido
+2025050207733;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00717_minuta.pdf;Emitido
+2025050207734;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00718_minuta.pdf;Emitido
+2025050207735;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00719_minuta.pdf;Emitido
+2025050207736;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00720_minuta.pdf;Emitido
+2025050207737;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00721_minuta.pdf;Emitido
+2025050207738;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00722_minuta.pdf;Emitido
+2025050207739;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00723_minuta.pdf;Emitido
+2025050207740;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00724_minuta.pdf;Emitido
+2025050207741;2025-05-02;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00725_minuta.pdf;Emitido
+2025050207742;2025-05-02;"Boleto de cobranca recebido: ""112/90279345352""";642.78;00726_minuta.pdf;Emitido
+202504300771;2025-04-30;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-700.00;00727_minuta.pdf;Emitido
+202504300772;2025-04-30;"Boleto de cobranca recebido: ""112/90279345741""";966.40;00728_minuta.pdf;Emitido
+202504300773;2025-04-30;"Boleto de cobranca recebido: ""112/90279345576""";137.00;00729_minuta.pdf;Emitido
+202504300774;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00730_minuta.pdf;Emitido
+202504300775;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00731_minuta.pdf;Emitido
+202504300776;2025-04-30;"Transferencia recebida: ""341 9 147786 NARDINI AGROINDUSTRIAL LTDA""";2021.18;00732_minuta.pdf;Emitido
+202504300777;2025-04-30;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-3120.36;00733_minuta.pdf;Emitido
+202504300778;2025-04-30;"Boleto de cobranca recebido: ""112/90279345204""";120.00;00734_minuta.pdf;Emitido
+202504300779;2025-04-30;"Boleto de cobranca recebido: ""112/90279345469""";579.99;00735_minuta.pdf;Emitido
+2025043007710;2025-04-30;"Boleto de cobranca recebido: ""112/90279345634""";1429.94;00736_minuta.pdf;Emitido
+2025043007711;2025-04-30;"Boleto de cobranca recebido: ""112/90279345550""";657.51;00737_minuta.pdf;Emitido
+2025043007712;2025-04-30;"Boleto de cobranca recebido: ""112/90279345360""";83.45;00738_minuta.pdf;Emitido
+2025043007713;2025-04-30;"Pix enviado: ""Cp :02466552-BSOFT INTERNETWORKS""";-2110.51;00739_minuta.pdf;Emitido
+2025043007714;2025-04-30;"Boleto de cobranca recebido: ""112/90279345196""";60.00;00740_minuta.pdf;Emitido
+2025043007715;2025-04-30;"Boleto de cobranca recebido: ""112/90279345477""";214.00;00741_minuta.pdf;Emitido
+2025043007716;2025-04-30;"Boleto de cobranca recebido: ""112/90279345444""";3000.00;00742_minuta.pdf;Emitido
+2025043007717;2025-04-30;"Boleto de cobranca recebido: ""112/90279345790""";440.00;00743_minuta.pdf;Emitido
+2025043007718;2025-04-30;"Boleto de cobranca recebido: ""112/90280833206""";95.00;00744_minuta.pdf;Emitido
+2025043007719;2025-04-30;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-4569.38;00745_minuta.pdf;Emitido
+2025043007720;2025-04-30;"Boleto de cobranca recebido: ""112/90279345642""";100.00;00746_minuta.pdf;Emitido
+2025043007721;2025-04-30;"Boleto de cobranca recebido: ""112/90279345113""";65.00;00747_minuta.pdf;Emitido
+2025043007722;2025-04-30;"Boleto de cobranca recebido: ""112/90279345246""";80.00;00748_minuta.pdf;Emitido
+2025043007723;2025-04-30;"Boleto de cobranca recebido: ""112/90279345139""";65.00;00749_minuta.pdf;Emitido
+2025043007724;2025-04-30;"Boleto de cobranca recebido: ""112/90280504401""";122.40;00750_minuta.pdf;Emitido
+2025043007725;2025-04-30;"Transferencia recebida: ""341 4009 814486 NARDINI AGROINDUSTRIAL LTDA""";383.23;00751_minuta.pdf;Emitido
+2025043007726;2025-04-30;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-815.63;00752_minuta.pdf;Emitido
+2025043007727;2025-04-30;"Boleto de cobranca recebido: ""112/90279345451""";569.00;00753_minuta.pdf;Emitido
+2025043007728;2025-04-30;"Boleto de cobranca recebido: ""112/90279345048""";400.00;00754_minuta.pdf;Emitido
+2025043007729;2025-04-30;"Boleto de cobranca recebido: ""112/90279344975""";380.00;00755_minuta.pdf;Emitido
+2025043007730;2025-04-30;"Boleto de cobranca recebido: ""112/90279345097""";180.00;00756_minuta.pdf;Emitido
+2025043007731;2025-04-30;"Boleto de cobranca recebido: ""112/90280695688""";180.00;00757_minuta.pdf;Emitido
+2025043007732;2025-04-30;"Boleto de cobranca recebido: ""112/90279345717""";80.00;00758_minuta.pdf;Emitido
+2025043007733;2025-04-30;"Boleto de cobranca recebido: ""112/90279345907""";130.00;00759_minuta.pdf;Emitido
+2025043007734;2025-04-30;"Boleto de cobranca recebido: ""112/90279345055""";120.00;00760_minuta.pdf;Emitido
+2025043007735;2025-04-30;"Boleto de cobranca recebido: ""112/90279345261""";210.00;00761_minuta.pdf;Emitido
+2025043007736;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00762_minuta.pdf;Emitido
+2025043007737;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00763_minuta.pdf;Emitido
+2025043007738;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00764_minuta.pdf;Emitido
+2025043007739;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00765_minuta.pdf;Emitido
+2025043007740;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00766_minuta.pdf;Emitido
+2025043007741;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00767_minuta.pdf;Emitido
+2025043007742;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00768_minuta.pdf;Emitido
+2025043007743;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00769_minuta.pdf;Emitido
+2025043007744;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00770_minuta.pdf;Emitido
+2025043007745;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00771_minuta.pdf;Emitido
+2025043007746;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00772_minuta.pdf;Emitido
+2025043007747;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00773_minuta.pdf;Emitido
+2025043007748;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00774_minuta.pdf;Emitido
+2025043007749;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00775_minuta.pdf;Emitido
+2025043007750;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00776_minuta.pdf;Emitido
+2025043007751;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00777_minuta.pdf;Emitido
+2025043007752;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00778_minuta.pdf;Emitido
+2025043007753;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00779_minuta.pdf;Emitido
+2025043007754;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00780_minuta.pdf;Emitido
+2025043007755;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00781_minuta.pdf;Emitido
+2025043007756;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00782_minuta.pdf;Emitido
+2025043007757;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00783_minuta.pdf;Emitido
+2025043007758;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00784_minuta.pdf;Emitido
+2025043007759;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00785_minuta.pdf;Emitido
+2025043007760;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00786_minuta.pdf;Emitido
+2025043007761;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00787_minuta.pdf;Emitido
+2025043007762;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00788_minuta.pdf;Emitido
+2025043007763;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00789_minuta.pdf;Emitido
+2025043007764;2025-04-30;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00790_minuta.pdf;Emitido
+2025043007765;2025-04-30;"Boleto de cobranca recebido: ""112/90279345949""";350.00;00791_minuta.pdf;Emitido
+2025043007766;2025-04-30;"Boleto de cobranca recebido: ""112/90279345162""";181.00;00792_minuta.pdf;Emitido
+2025043007767;2025-04-30;"Boleto de cobranca recebido: ""112/90279345105""";110.00;00793_minuta.pdf;Emitido
+2025043007768;2025-04-30;"Boleto de cobranca recebido: ""112/90279344983""";110.00;00794_minuta.pdf;Emitido
+2025043007769;2025-04-30;"Pix enviado: ""Cp :90400888-Polartech Mirassol Ar Condicionado LTDA""";-1350.00;00795_minuta.pdf;Emitido
+2025043007770;2025-04-30;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-1577.79;00796_minuta.pdf;Emitido
+2025043007771;2025-04-30;"Boleto de cobranca recebido: ""112/90279345329""";60.00;00797_minuta.pdf;Emitido
+2025043007772;2025-04-30;"Boleto de cobranca recebido: ""112/90279344967""";60.00;00798_minuta.pdf;Emitido
+2025043007773;2025-04-30;"Boleto de cobranca recebido: ""112/90279345089""";175.00;00799_minuta.pdf;Emitido
+2025043007774;2025-04-30;"Boleto de cobranca recebido: ""112/90279345220""";60.00;00800_minuta.pdf;Emitido
+2025043007775;2025-04-30;"Boleto de cobranca recebido: ""112/90279345683""";211.48;00801_minuta.pdf;Emitido
+2025043007776;2025-04-30;"Boleto de cobranca recebido: ""112/90279345600""";90.00;00802_minuta.pdf;Emitido
+2025043007777;2025-04-30;"Boleto de cobranca recebido: ""112/90279345279""";90.00;00803_minuta.pdf;Emitido
+2025043007778;2025-04-30;"Boleto de cobranca recebido: ""112/90279345428""";60.00;00804_minuta.pdf;Emitido
+2025043007779;2025-04-30;"Boleto de cobranca recebido: ""112/90279345535""";130.00;00805_minuta.pdf;Emitido
+2025043007780;2025-04-30;"Boleto de cobranca recebido: ""112/90279345519""";60.00;00806_minuta.pdf;Emitido
+2025043007781;2025-04-30;"Boleto de cobranca recebido: ""112/90279345584""";90.00;00807_minuta.pdf;Emitido
+2025043007782;2025-04-30;"Boleto de cobranca recebido: ""112/90279345725""";245.00;00808_minuta.pdf;Emitido
+2025043007783;2025-04-30;"Boleto de cobranca recebido: ""112/90279345378""";198.00;00809_minuta.pdf;Emitido
+2025043007784;2025-04-30;"Boleto de cobranca recebido: ""112/90279345782""";338.00;00810_minuta.pdf;Emitido
+2025043007785;2025-04-30;"Boleto de cobranca recebido: ""112/90279345410""";332.60;00811_minuta.pdf;Emitido
+2025043007786;2025-04-30;"Boleto de cobranca recebido: ""112/90279344959""";60.00;00812_minuta.pdf;Emitido
+2025043007787;2025-04-30;"Boleto de cobranca recebido: ""112/90279345865""";190.00;00813_minuta.pdf;Emitido
+2025043007788;2025-04-30;"Boleto de cobranca recebido: ""112/90279345022""";320.00;00814_minuta.pdf;Emitido
+2025043007789;2025-04-30;"Boleto de cobranca recebido: ""112/90279345170""";210.25;00815_minuta.pdf;Emitido
+2025043007790;2025-04-30;"Boleto de cobranca recebido: ""112/90279345188""";60.00;00816_minuta.pdf;Emitido
+2025043007791;2025-04-30;"Boleto de cobranca recebido: ""112/90279345675""";230.00;00817_minuta.pdf;Emitido
+2025043007792;2025-04-30;"Boleto de cobranca recebido: ""112/90279345816""";75.19;00818_minuta.pdf;Emitido
+2025043007793;2025-04-30;"Boleto de cobranca recebido: ""112/90279345857""";70.00;00819_minuta.pdf;Emitido
+2025043007794;2025-04-30;"Boleto de cobranca recebido: ""112/90279345667""";140.00;00820_minuta.pdf;Emitido
+2025043007795;2025-04-30;"Boleto de cobranca recebido: ""112/90279345485""";141.95;00821_minuta.pdf;Emitido
+2025043007796;2025-04-30;"Boleto de cobranca recebido: ""112/90276210005""";600.00;00822_minuta.pdf;Emitido
+2025043007797;2025-04-30;"Boleto de cobranca recebido: ""112/90279345295""";90.00;00823_minuta.pdf;Emitido
+2025043007798;2025-04-30;"Boleto de cobranca recebido: ""112/90279345345""";60.00;00824_minuta.pdf;Emitido
+2025043007799;2025-04-30;"Boleto de cobranca recebido: ""112/90279345394""";60.00;00825_minuta.pdf;Emitido
+20250430077100;2025-04-30;"Boleto de cobranca recebido: ""112/90279345659""";120.00;00826_minuta.pdf;Emitido
+20250430077101;2025-04-30;"Boleto de cobranca recebido: ""112/90279345758""";65.00;00827_minuta.pdf;Emitido
+20250430077102;2025-04-30;"Boleto de cobranca recebido: ""112/90279345568""";120.00;00828_minuta.pdf;Emitido
+20250430077103;2025-04-30;"Boleto de cobranca recebido: ""112/90279345840""";151.20;00829_minuta.pdf;Emitido
+20250430077104;2025-04-30;"Boleto de cobranca recebido: ""112/90279345402""";110.00;00830_minuta.pdf;Emitido
+20250430077105;2025-04-30;"Boleto de cobranca recebido: ""112/90279345287""";200.00;00831_minuta.pdf;Emitido
+20250430077106;2025-04-30;"Boleto de cobranca recebido: ""112/90279345212""";600.00;00832_minuta.pdf;Emitido
+20250430077107;2025-04-30;"Boleto de cobranca recebido: ""112/90279345832""";120.00;00833_minuta.pdf;Emitido
+20250430077108;2025-04-30;"Boleto de cobranca recebido: ""112/90279345121""";90.00;00834_minuta.pdf;Emitido
+20250430077109;2025-04-30;"Boleto de cobranca recebido: ""112/90280831523""";260.00;00835_minuta.pdf;Emitido
+20250430077110;2025-04-30;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-6343.67;00836_minuta.pdf;Emitido
+202504290771;2025-04-29;"Boleto de cobranca recebido: ""112/90285336288""";1417.00;00837_minuta.pdf;Emitido
+202504290772;2025-04-29;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00838_minuta.pdf;Emitido
+202504290773;2025-04-29;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-600.00;00839_minuta.pdf;Emitido
+202504290774;2025-04-29;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-814.51;00840_minuta.pdf;Emitido
+202504290775;2025-04-29;"Boleto de cobranca recebido: ""112/90279345071""";532.30;00841_minuta.pdf;Emitido
+202504290776;2025-04-29;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00842_minuta.pdf;Emitido
+202504290777;2025-04-29;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-529.81;00843_minuta.pdf;Emitido
+202504290778;2025-04-29;"Boleto de cobranca recebido: ""112/90272469993""";700.76;00844_minuta.pdf;Emitido
+202504280771;2025-04-28;"Boleto de cobranca recebido: ""112/90279345915""";160.00;00845_minuta.pdf;Emitido
+202504280772;2025-04-28;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00846_minuta.pdf;Emitido
+202504280773;2025-04-28;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00847_minuta.pdf;Emitido
+202504280774;2025-04-28;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-155.02;00848_minuta.pdf;Emitido
+202504280775;2025-04-28;"Boleto de cobranca recebido: ""112/90279345154""";424.00;00849_minuta.pdf;Emitido
+202504280776;2025-04-28;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00850_minuta.pdf;Emitido
+202504280777;2025-04-28;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00851_minuta.pdf;Emitido
+202504280778;2025-04-28;"Boleto de cobranca recebido: ""112/90279345253""";280.00;00852_minuta.pdf;Emitido
+202504280779;2025-04-28;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-699.02;00853_minuta.pdf;Emitido
+202504250771;2025-04-25;"Boleto de cobranca recebido: ""112/90279345014""";120.00;00854_minuta.pdf;Emitido
+202504250772;2025-04-25;"Boleto de cobranca recebido: ""112/90279345931""";205.00;00855_minuta.pdf;Emitido
+202504250773;2025-04-25;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-325.00;00856_minuta.pdf;Emitido
+202504240771;2025-04-24;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00857_minuta.pdf;Emitido
+202504240772;2025-04-24;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-1265.66;00858_minuta.pdf;Emitido
+202504230771;2025-04-23;"Boleto de cobranca recebido: ""112/90278662153""";290.00;00859_minuta.pdf;Emitido
+202504230772;2025-04-23;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00860_minuta.pdf;Emitido
+202504230773;2025-04-23;"Boleto de cobranca recebido: ""112/90278454791""";980.64;00861_minuta.pdf;Emitido
+202504220771;2025-04-22;"Pix recebido: ""Cp :90400888-NARDINI AGROINDUSTRIAL LTDA""";818.18;00862_minuta.pdf;Emitido
+202504220772;2025-04-22;"Transferencia recebida: ""033 3 130105157 NARDINI AGROINDUSTRIAL LTDA""";348.16;00863_minuta.pdf;Emitido
+202504220773;2025-04-22;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-1166.34;00864_minuta.pdf;Emitido
+202504170771;2025-04-17;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00865_minuta.pdf;Emitido
+202504170772;2025-04-17;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-312.83;00866_minuta.pdf;Emitido
+202504160771;2025-04-16;"Boleto de cobranca recebido: ""112/90272382709""";317.81;00867_minuta.pdf;Emitido
+202504160772;2025-04-16;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00868_minuta.pdf;Emitido
+202504150771;2025-04-15;"Boleto de cobranca recebido: ""112/90264576169""";176.25;00869_minuta.pdf;Emitido
+202504150772;2025-04-15;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00870_minuta.pdf;Emitido
+202504150773;2025-04-15;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00871_minuta.pdf;Emitido
+202504150774;2025-04-15;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-171.27;00872_minuta.pdf;Emitido
+202504140771;2025-04-14;"Boleto de cobranca recebido: ""112/90274414948""";99.42;00873_minuta.pdf;Emitido
+202504140772;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00874_minuta.pdf;Emitido
+202504140773;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00875_minuta.pdf;Emitido
+202504140774;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00876_minuta.pdf;Emitido
+202504140775;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00877_minuta.pdf;Emitido
+202504140776;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00878_minuta.pdf;Emitido
+202504140777;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00879_minuta.pdf;Emitido
+202504140778;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00880_minuta.pdf;Emitido
+202504140779;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00881_minuta.pdf;Emitido
+2025041407710;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00882_minuta.pdf;Emitido
+2025041407711;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00883_minuta.pdf;Emitido
+2025041407712;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00884_minuta.pdf;Emitido
+2025041407713;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00885_minuta.pdf;Emitido
+2025041407714;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00886_minuta.pdf;Emitido
+2025041407715;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00887_minuta.pdf;Emitido
+2025041407716;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00888_minuta.pdf;Emitido
+2025041407717;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00889_minuta.pdf;Emitido
+2025041407718;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00890_minuta.pdf;Emitido
+2025041407719;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00891_minuta.pdf;Emitido
+2025041407720;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00892_minuta.pdf;Emitido
+2025041407721;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00893_minuta.pdf;Emitido
+2025041407722;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00894_minuta.pdf;Emitido
+2025041407723;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00895_minuta.pdf;Emitido
+2025041407724;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00896_minuta.pdf;Emitido
+2025041407725;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00897_minuta.pdf;Emitido
+2025041407726;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00898_minuta.pdf;Emitido
+2025041407727;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00899_minuta.pdf;Emitido
+2025041407728;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00900_minuta.pdf;Emitido
+2025041407729;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00901_minuta.pdf;Emitido
+2025041407730;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00902_minuta.pdf;Emitido
+2025041407731;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00903_minuta.pdf;Emitido
+2025041407732;2025-04-14;"Tarifa liquidacao de boleto: ""Tarifa boleto pagamento via Cod Barras""";-2.49;00904_minuta.pdf;Emitido
+2025041407733;2025-04-14;"Boleto de cobranca recebido: ""112/90271263215""";350.00;00905_minuta.pdf;Emitido
+2025041407734;2025-04-14;"Boleto de cobranca recebido: ""112/90264576318""";701.54;00906_minuta.pdf;Emitido
+2025041407735;2025-04-14;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-1073.77;00907_minuta.pdf;Emitido
+202504110771;2025-04-11;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-723.43;00908_minuta.pdf;Emitido
+202504110772;2025-04-11;"Boleto de cobranca recebido: ""112/90264576045""";418.13;00909_minuta.pdf;Emitido
+202504110773;2025-04-11;"Pix enviado: ""Cp :54403563-M4 PRODUTOS E SERVICOS LTDA""";-40.00;00910_minuta.pdf;Emitido
+202504110774;2025-04-11;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-378.13;00911_minuta.pdf;Emitido
+202504100771;2025-04-10;"Pix enviado: ""Cp :90400888-William Penha Transportes Me""";-355.59;00912_minuta.pdf;Emitido
+202504100772;2025-04-10;"Boleto de cobranca recebido: ""112/90264575740""";90.00;00913_minuta.pdf;Emitido
+202504100773;2025-04-10;"Pix recebido: ""Cp :90400888-NARDINI AGROINDUSTRIAL LTDA""";3580.00;00914_minuta.pdf;Emitido
+202504100774;2025-04-10;"Boleto de cobranca recebido: ""112/90264575823""";812.57;00915_minuta.pdf;Emitido
+202504100775;2025-04-10;"Boleto de cobranca recebido: ""112/90264576201""";202.17;00916_minuta.pdf;Emitido
+202504100776;2025-04-10;"Boleto de cobranca recebido: ""112/90264576193""";100.00;00917_minuta.pdf;Emitido
+202504100777;2025-04-10;"Boleto de cobranca recebido: ""112/90264576052""";95.00;00918_minuta.pdf;Emitido
+202504100778;2025-04-10;"Boleto de cobranca recebido: ""112/90264576136""";60.00;00919_minuta.pdf;Emitido
+202504100779;2025-04-10;"Boleto de cobranca recebido: ""112/90264576292""";60.00;00920_minuta.pdf;Emitido
+2025041007710;2025-04-10;"Boleto de cobranca recebido: ""112/90264575807""";205.00;00921_minuta.pdf;Emitido
+2025041007711;2025-04-10;"Boleto de cobranca recebido: ""112/90264575732""";70.00;00922_minuta.pdf;Emitido
+2025041007712;2025-04-10;"Boleto de cobranca recebido: ""112/90264575690""";275.30;00923_minuta.pdf;Emitido
+2025041007713;2025-04-10;"Boleto de cobranca recebido: ""112/90266979213""";360.00;00924_minuta.pdf;Emitido
+2025041007714;2025-04-10;"Pix enviado: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";-6097.08;00925_minuta.pdf;Emitido
+2025041007715;2025-04-10;"Boleto de cobranca recebido: ""112/90264575583""";35.00;00926_minuta.pdf;Emitido
+2025041007716;2025-04-10;"Boleto de cobranca recebido: ""112/90264576300""";120.09;00927_minuta.pdf;Emitido
+2025041007717;2025-04-10;"Boleto de cobranca recebido: ""112/90264576011""";60.00;00928_minuta.pdf;Emitido
+2025041007718;2025-04-10;"Boleto de cobranca recebido: ""112/90264575591""";115.00;00929_minuta.pdf;Emitido
+2025041007719;2025-04-10;"Boleto de cobranca recebido: ""112/90264576284""";292.60;00930_minuta.pdf;Emitido
+2025041007720;2025-04-10;"Boleto de cobranca recebido: ""112/90264575971""";120.00;00931_minuta.pdf;Emitido
+2025041007721;2025-04-10;"Boleto de cobranca recebido: ""112/90264576219""";185.00;00932_minuta.pdf;Emitido
+2025041007722;2025-04-10;"Boleto de cobranca recebido: ""112/90264575567""";65.00;00933_minuta.pdf;Emitido
+2025041007723;2025-04-10;"Boleto de cobranca recebido: ""112/90264575666""";114.00;00934_minuta.pdf;Emitido
+2025041007724;2025-04-10;"Boleto de cobranca recebido: ""112/90264576094""";240.00;00935_minuta.pdf;Emitido
+2025041007725;2025-04-10;"Boleto de cobranca recebido: ""112/90264575997""";60.00;00936_minuta.pdf;Emitido
+2025041007726;2025-04-10;"Boleto de cobranca recebido: ""112/90264575856""";580.00;00937_minuta.pdf;Emitido
+2025041007727;2025-04-10;"Boleto de cobranca recebido: ""112/90264575799""";240.00;00938_minuta.pdf;Emitido
+2025041007728;2025-04-10;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-2223.69;00939_minuta.pdf;Emitido
+2025041007729;2025-04-10;"Boleto de cobranca recebido: ""112/90264575674""";98.50;00940_minuta.pdf;Emitido
+2025041007730;2025-04-10;"Boleto de cobranca recebido: ""112/90264575948""";330.00;00941_minuta.pdf;Emitido
+2025041007731;2025-04-10;"Boleto de cobranca recebido: ""112/90264576359""";120.00;00942_minuta.pdf;Emitido
+2025041007732;2025-04-10;"Boleto de cobranca recebido: ""112/90264575906""";60.00;00943_minuta.pdf;Emitido
+2025041007733;2025-04-10;"Boleto de cobranca recebido: ""112/90271692272""";100.00;00944_minuta.pdf;Emitido
+2025041007734;2025-04-10;"Boleto de cobranca recebido: ""112/90264575609""";90.00;00945_minuta.pdf;Emitido
+2025041007735;2025-04-10;"Boleto de cobranca recebido: ""112/90264576342""";100.15;00946_minuta.pdf;Emitido
+2025041007736;2025-04-10;"Boleto de cobranca recebido: ""112/90264575781""";910.00;00947_minuta.pdf;Emitido
+2025041007737;2025-04-10;"Boleto de cobranca recebido: ""112/90264575765""";125.00;00948_minuta.pdf;Emitido
+2025041007738;2025-04-10;"Boleto de cobranca recebido: ""112/90264575641""";75.00;00949_minuta.pdf;Emitido
+2025041007739;2025-04-10;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-2011.65;00950_minuta.pdf;Emitido
+2025041007740;2025-04-10;"Boleto de cobranca recebido: ""112/90264575708""";135.00;00951_minuta.pdf;Emitido
+2025041007741;2025-04-10;"Boleto de cobranca recebido: ""112/90264576235""";60.00;00952_minuta.pdf;Emitido
+2025041007742;2025-04-10;"Boleto de cobranca recebido: ""112/90264575872""";60.00;00953_minuta.pdf;Emitido
+2025041007743;2025-04-10;"Boleto de cobranca recebido: ""112/90264575831""";60.00;00954_minuta.pdf;Emitido
+2025041007744;2025-04-10;"Boleto de cobranca recebido: ""112/90264576177""";60.00;00955_minuta.pdf;Emitido
+2025041007745;2025-04-10;"Boleto de cobranca recebido: ""112/90264576276""";70.00;00956_minuta.pdf;Emitido
+2025041007746;2025-04-10;"Boleto de cobranca recebido: ""112/90264575864""";429.00;00957_minuta.pdf;Emitido
+2025041007747;2025-04-10;"Boleto de cobranca recebido: ""112/90264576185""";60.00;00958_minuta.pdf;Emitido
+2025041007748;2025-04-10;"Boleto de cobranca recebido: ""112/90268386730""";280.00;00959_minuta.pdf;Emitido
+2025041007749;2025-04-10;"Boleto de cobranca recebido: ""112/90271324926""";740.00;00960_minuta.pdf;Emitido
+2025041007750;2025-04-10;"Boleto de cobranca recebido: ""112/90272471437""";359.00;00961_minuta.pdf;Emitido
+2025041007751;2025-04-10;"Boleto de cobranca recebido: ""112/90272741367""";385.00;00962_minuta.pdf;Emitido
+2025041007752;2025-04-10;"Boleto de cobranca recebido: ""112/90264576086""";187.85;00963_minuta.pdf;Emitido
+2025041007753;2025-04-10;"Boleto de cobranca recebido: ""112/90264576037""";187.85;00964_minuta.pdf;Emitido
+2025041007754;2025-04-10;"Boleto de cobranca recebido: ""112/90268510065""";240.00;00965_minuta.pdf;Emitido
+2025041007755;2025-04-10;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-3313.70;00966_minuta.pdf;Emitido
+2025041007756;2025-04-10;"Boleto de cobranca recebido: ""112/90272470553""";633.43;00967_minuta.pdf;Emitido
+202504090771;2025-04-09;"Boleto de cobranca recebido: ""112/90266153652""";260.00;00968_minuta.pdf;Emitido
+202504090772;2025-04-09;"Boleto de cobranca recebido: ""112/90264575849""";1395.74;00969_minuta.pdf;Emitido
+202504090773;2025-04-09;"Boleto de cobranca recebido: ""112/90264575625""";320.67;00970_minuta.pdf;Emitido
+202504090774;2025-04-09;"Boleto de cobranca recebido: ""112/90264575757""";396.22;00971_minuta.pdf;Emitido
+202504090775;2025-04-09;"Pix enviado: ""Cp :18236120-Victor Henrique de Jesus Lisboa""";-1740.00;00972_minuta.pdf;Emitido
+202504080771;2025-04-08;"Boleto de cobranca recebido: ""112/90264576128""";260.00;00973_minuta.pdf;Emitido
+202504080772;2025-04-08;"Boleto de cobranca recebido: ""112/90264575922""";306.67;00974_minuta.pdf;Emitido
+202504080773;2025-04-08;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-566.67;00975_minuta.pdf;Emitido
+202504070771;2025-04-07;"Boleto de cobranca recebido: ""112/90268504977""";90.00;00976_minuta.pdf;Emitido
+202504070772;2025-04-07;"Boleto de cobranca recebido: ""112/90268743575""";30.00;00977_minuta.pdf;Emitido
+202504070773;2025-04-07;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-120.00;00978_minuta.pdf;Emitido
+202504040771;2025-04-04;"Boleto de cobranca recebido: ""112/90265349673""";304.00;00979_minuta.pdf;Emitido
+202504040772;2025-04-04;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-304.00;00980_minuta.pdf;Emitido
+202503310771;2025-03-31;"Transferencia recebida: ""033 3 130105157 NARDINI AGROINDUSTRIAL LTDA""";70.00;00981_minuta.pdf;Emitido
+202503310772;2025-03-31;"Transferencia recebida: ""341 9 147786 NARDINI AGROINDUSTRIAL LTDA""";220.00;00982_minuta.pdf;Emitido
+202503310773;2025-03-31;"Pix enviado: ""Cp :18236120-Avila Transportes Intermunicipal LTDA""";-290.00;00983_minuta.pdf;Emitido
+202503210771;2025-03-21;"Pix enviado: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";-4.89;00984_minuta.pdf;Emitido
+202503200771;2025-03-20;"Pix recebido: ""Cp :90400888-NARDINI AGROINDUSTRIAL LTDA""";551.89;00985_minuta.pdf;Emitido
+202503200772;2025-03-20;"Pix enviado: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";-607.00;00986_minuta.pdf;Emitido
+202503170771;2025-03-17;"Pix enviado: ""Cp :18236120-AVILA TRANSPORTES INTERMUNICIPAL LTDA""";-200.00;00987_minuta.pdf;Emitido
+202503170772;2025-03-17;"Pix recebido: ""00019 219817430 LZP COMERCIAL LTDA""";60.00;00988_minuta.pdf;Emitido
+202503160771;2025-03-16;"Pix enviado: ""Cp :18236120-Alceu Rodrigues Neto""";-400.00;00989_minuta.pdf;Emitido
+202503150771;2025-03-15;"Pix recebido: ""Cp :00000000-RENATO AVILA BARROS""";600.00;00990_minuta.pdf;Emitido
